@@ -1,18 +1,13 @@
 <?php
-  return [
-    'development' => [
-        'host' => 'localhost',
-        'db_name' => 'culturatech',
-        'username' => 'root',
-        'password' => '',
-        'charset' => 'utf8mb4'
-    ],
-    'production' => [
-        'host' => getenv('DB_HOST'),
-        'db_name' => getenv('DB_NAME'),
-        'username' => getenv('DB_USER'),
-        'password' => getenv('DB_PASSWORD'),
-        'charset' => 'utf8mb4'
-    ]
-  ];
-?>
+$host = "localhost";
+$dbname = "shopify";
+$username = "root";
+$password = "";
+
+try {
+    $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
+    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch(PDOException $e) {
+    echo "Connection failed: " . $e->getMessage();
+    die();
+}
