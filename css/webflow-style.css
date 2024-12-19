@@ -84,6 +84,10 @@
   appearance: none;
 }
 
+.profile {
+  margin-left: 40px;
+}
+
 .w-commerce-commercecartopenlinkcount {
   display: inline-block;
   height: 18px;
@@ -132,6 +136,7 @@
   -ms-flex-align: center;
   align-items: center;
 }
+
 
 .w-commerce-commercecartcontainerwrapper--cartType-leftSidebar {
   display: -webkit-box;

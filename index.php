@@ -203,13 +203,11 @@
     }
   }
 }" data-wf-page-link-href-prefix="" class="w-commerce-commercecartwrapper"><a href="#"
-                data-node-type="commerce-cart-open-link"
                 class="w-commerce-commercecartopenlink cart-button w-inline-block" role="button" aria-haspopup="dialog"
                 aria-label="Open cart">
-                <div class="w-inline-block">Cart</div><img src="images/cart-icon.svg" alt="" class="cart-icon" />
-                <div
-                  data-wf-bindings="%5B%7B%22innerHTML%22%3A%7B%22type%22%3A%22Number%22%2C%22filter%22%3A%7B%22type%22%3A%22numberPrecision%22%2C%22params%22%3A%5B%220%22%2C%22numberPrecision%22%5D%7D%2C%22dataPath%22%3A%22database.commerceOrder.userItemsCount%22%7D%7D%5D"
-                  class="w-commerce-commercecartopenlinkcount item-count">0</div>
+                <div class="w-inline-block" data-node-type="commerce-cart-open-link">Cart</div><img src="images/cart-icon.svg" alt="" class="cart-icon" />
+                <div class="w-commerce-commercecartopenlinkcount item-count">0</div>
+                <div class="w-inline-block profile menu-button w-nav-button"></div><img src="images/profile.png" alt="" class="cart-icon" />
               </a>
               <div data-node-type="commerce-cart-container-wrapper" style="display:none"
                 class="w-commerce-commercecartcontainerwrapper w-commerce-commercecartcontainerwrapper--cartType-modal">
@@ -519,11 +517,6 @@
     </div>
 
 
-
-
-
-
-
     <div class="section haze no-padding-top">
       <div class="wrapper">
         <div class="shop-header">
@@ -586,8 +579,6 @@
         </div>
       </div>
     </div>
-
-
 
 
     <div class="section haze no-padding-top">
