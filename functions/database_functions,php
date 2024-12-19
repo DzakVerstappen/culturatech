@@ -1,0 +1,39 @@
+<?php
+require_once __DIR__ . '/../config/db_connect.php';
+
+function addToCart($productId, $userId, $quantity = 1) {
+    global $connection;
+
+    // Validasi parameter
+    if (!$productId || !$userId) {
+        return false; // Parameter tidak valid
+    }
+
+    try {
+        // Cek apakah item sudah ada di keranjang
+        $query = "SELECT * FROM cart WHERE product_id = ? AND user_id = ?";
+        $stmt = $connection->prepare($query);
+        $stmt->bind_param("ii", $productId, $userId);
+        $stmt->execute();
+        $result = $stmt->get_result();
+
+        if ($result->num_rows > 0) {
+            // Update quantity jika sudah ada
+            $query = "UPDATE cart SET quantity = quantity + ? WHERE product_id = ? AND user_id = ?";
+            $stmt = $connection->prepare($query);
+            $stmt->bind_param("iii", $quantity, $productId, $userId);
+        } else {
+            // Tambahkan item baru
+            $query = "INSERT INTO cart (product_id, user_id, quantity) VALUES (?, ?, ?)";
+            $stmt = $connection->prepare($query);
+            $stmt->bind_param("iii", $productId, $userId, $quantity);
+        }
+
+        // Eksekusi query
+        return $stmt->execute();
+    } catch (Exception $e) {
+        error_log("Error adding to cart: " . $e->getMessage());
+        return false;
+    }
+}
+?>
