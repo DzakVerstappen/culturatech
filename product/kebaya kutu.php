@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html data-wf-page="5badda2935e11307449a4622" data-wf-site="5badda2935e11303a89a461e">
+<html data-wf-page="5baddb6a35e11306e19a4806" data-wf-site="5badda2935e11303a89a461e"
+  data-wf-collection="5baddb6a35e1130af59a4804" data-wf-item-slug="grey-elephant">
 
 <head>
   <meta charset="utf-8" />
-  <title>Shopify — Webflow Ecommerce HTML website template</title>
-  <meta content="ToyStore — Webflow Ecommerce HTML website template" property="og:title" />
-  <meta content="ToyStore — Webflow Ecommerce HTML website template" property="twitter:title" />
+  <title>Shopify</title>
   <meta content="width=device-width, initial-scale=1" name="viewport" />
   <meta content="Webflow" name="generator" />
   <link href="../css/webflow-style.css" rel="stylesheet" type="text/css" />
@@ -56,7 +55,7 @@
         <div class="wrapper nav-top-wrapper">
           <div class="nav-top-info">
             <div class="nav-top-text">Call Us: +1 213 974-5898</div>
-            <div class="w-hidden-tiny">Email: <a href="#" class="link-white">Shopify@template.com</a></div>
+            <div class="w-hidden-tiny">Email: <a href="#" class="link-white">toystore@template.com</a></div>
           </div>
           <div class="nav-top-social"><a href="https://elasticthemes.com" target="_blank"
               class="social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
@@ -70,13 +69,13 @@
         </div>
       </div>
       <div class="nav-main">
-        <div class="wrapper nav-bar-wrapper"><a href="/" class="brand w-nav-brand">
+        <div class="wrapper nav-bar-wrapper"><a href="index.php" class="brand w-nav-brand">
             <div>Shopify</div>
           </a>
           <div class="navigation">
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="/catalog.html"
-                class="nav-link w-nav-link">Catalog</a><a href="/delivery.html" class="nav-link w-nav-link">Delivery</a><a
-                href="/about.html" class="nav-link w-nav-link">About</a><a href="/contacts.html"
+            <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
+                class="nav-link w-nav-link">Catalog</a><a href="delivery.php" class="nav-link w-nav-link">Delivery</a><a
+                href="about.php" class="nav-link w-nav-link">About</a><a href="contacts.php"
                 class="nav-link w-nav-link">Contacts</a></nav>
             <div class="menu-button w-nav-button">
               <div class="w-icon-nav-menu"></div>
@@ -332,7 +331,7 @@
                             </a></div>
                           <div
                             data-wf-paypal-button="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;color&quot;:&quot;blue&quot;,&quot;shape&quot;:&quot;pill&quot;,&quot;label&quot;:&quot;paypal&quot;,&quot;tagline&quot;:false,&quot;note&quot;:false}"
-                            class="cart-pay-button"></div><a href="/checkout.html" value="Continue to Checkout"
+                            class="cart-pay-button"></div><a href="checkout.php" value="Continue to Checkout"
                             data-node-type="cart-checkout-button" class="w-commerce-commercecartcheckoutbutton button"
                             data-loading-text="Hang Tight...">Continue to Checkout</a>
                         </div>
@@ -361,98 +360,270 @@
     </div>
     <div class="section no-padding-vertical">
       <div class="wrapper side-paddings">
-        <div class="breadcrumbs"><a href="/" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
-            alt="" class="breadcrumbs-arrow" />
-          <div>Style Guide</div>
+        <div class="breadcrumbs"><a href="index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
+            alt="" class="breadcrumbs-arrow" /><a href="catalog.php" class="link-grey">Catalog</a><img
+            src="../images/arrow-right-mini-icon-1.svg" alt="" class="breadcrumbs-arrow" />
+          <div>Kebaya Kutu Baru</div>
         </div>
       </div>
     </div>
-    <div class="section no-padding-bottom">
-      <div class="wrapper">
-        <div class="intro no-margin">
-          <h1>Style Guide</h1>
-          <p class="text-grey no-margin">Use this page to quickly modify all buttons and typography styles all across
-            the project</p>
+    <div class="section no-padding-vertical">
+      <div class="wrapper side-paddings">
+        <div class="product">
+          <div class="product-info">
+            <h1>Kebaya Kutu Baru</h1>
+            <p class="text-grey">A successful marketing plan relies heavily on the pulling-power of advertising copy.
+              Writing result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take
+              action. There is no magic formula to write perfect ad copy. It is based on a number of factors.</p>
+            <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+              class="product-price">$ 45.00 USD</div>
+            <div class="full-width">
+              <form data-node-type="commerce-add-to-cart-form" data-commerce-sku-id="5bae0da6939555f17fb8a95b"
+                data-loading-text="Adding to cart..." data-commerce-product-id="5bae0da62ca03549b20d4dbb"
+                class="w-commerce-commerceaddtocartform add-to-cart"><input type="number" pattern="^[0-9]+$"
+                  inputMode="numeric" id="quantity-652131f9f904302b3296412795400fe8"
+                  name="commerce-add-to-cart-quantity-input" min="1"
+                  class="w-commerce-commerceaddtocartquantityinput input quantity-input" value="1" />
+                <div class="buy-buttons"><input type="submit" data-node-type="commerce-add-to-cart-button"
+                    data-loading-text="Adding to cart..." aria-busy="false" aria-haspopup="dialog"
+                    class="w-commerce-commerceaddtocartbutton button add-to-cart-button" value="Add to Cart" /><a
+                    data-node-type="commerce-buy-now-button" data-default-text="Buy now"
+                    data-subscription-text="Subscribe now" aria-busy="false" aria-haspopup="false"
+                    class="w-commerce-commercebuynowbutton button buy-now-button" href="checkout.php">Buy now</a></div>
+              </form>
+              <div style="display:none" class="w-commerce-commerceaddtocartoutofstock out-of-stock" tabindex="0">
+                <div>This product is out of stock.</div>
+              </div>
+              <div aria-live="" data-node-type="commerce-add-to-cart-error" style="display:none"
+                class="w-commerce-commerceaddtocarterror form-error">
+                <div data-node-type="commerce-add-to-cart-error"
+                  data-w-add-to-cart-quantity-error="Product is not available in this quantity."
+                  data-w-add-to-cart-general-error="Something went wrong when adding this item to the cart."
+                  data-w-add-to-cart-mixed-cart-error="You can’t purchase another product with a subscription."
+                  data-w-add-to-cart-buy-now-error="Something went wrong when trying to purchase this item."
+                  data-w-add-to-cart-checkout-disabled-error="Checkout is disabled on this site."
+                  data-w-add-to-cart-select-all-options-error="Please select an option in each set.">Product is not
+                  available in this quantity.</div>
+              </div>
+            </div>
+          </div>
+          <div class="product-image-wrapper"><img alt=""
+              data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+              src="../images/kebaya2.jpg"
+              sizes="(max-width: 479px) 83vw, (max-width: 767px) 75vw, (max-width: 991px) 76vw, 32vw"
+              srcset="../images/kebaya2.jpg 500w, ../images/kebaya2.jpg 1200w"
+              class="full-width" /></div>
+          <div class="product-details-wrapper">
+            <div class="shop-header">
+              <h5 class="no-margin">Product Details</h5>
+              <div class="sku">
+                <div>SKU: </div>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_sku_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">35015
+                </div>
+              </div>
+              <div class="shop-header-line">
+                <div class="shop-header-color green"></div>
+              </div>
+            </div>
+            <div class="product-details w-richtext">
+              <h4>Add Your Product Description</h4>
+              <p>The rich text element allows you to create and format headings, paragraphs, blockquotes, images, and
+                video all in one place instead of having to add and format them individually. Just double-click and
+                easily create content. A rich text element can be used with static or dynamic content. For static
+                content, just drop it into any page and begin editing. For dynamic content, add a rich text field to any
+                collection and then connect a rich text element to that field in the settings panel. Voila!</p>
+              <h4>Simple &amp; Elegant Template</h4>
+              <p>Headings, paragraphs, blockquotes, figures, images, and figure captions can all be styled after a class
+                is added to the rich text element using the "When inside of" nested selector system.</p>
+              <ul>
+                <li>Beautifully Designed</li>
+                <li>Fully Responsive</li>
+                <li>CMS Content</li>
+                <li>Smooth Animations</li>
+              </ul>
+              <p>A successful marketing plan relies heavily on the pulling-power of advertising copy. Writing
+                result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take
+                action.</p>
+              <h5>Perfect Choice for Your Business</h5>
+              <p>Grabbing the consumer’s attention isn’t enough; you have to keep that attention for at least a few
+                seconds. This is where your benefits come into play or a product description that sets your offer apart
+                from the others.</p>
+              <p>‍</p>
+            </div>
+            <div class="product-table">
+              <div class="product-table-cell">
+                <div>Width</div>
+                <div class="product-table-info">
+                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_width_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">30.5
+                  </div>
+                  <div>  in</div>
+                </div>
+              </div>
+              <div class="product-table-cell">
+                <div>Height</div>
+                <div class="product-table-info">
+                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_height_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">28.5
+                  </div>
+                  <div>  in</div>
+                </div>
+              </div>
+              <div class="product-table-cell">
+                <div>Length</div>
+                <div class="product-table-info">
+                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_length_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">20
+                  </div>
+                  <div>  in</div>
+                </div>
+              </div>
+              <div class="product-table-cell no-border-bottom">
+                <div>Weight</div>
+                <div class="product-table-info">
+                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_weight_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">19
+                  </div>
+                  <div>  oz</div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
     <div class="section">
-      <div class="wrapper w-container">
-        <div class="button-styles">
-          <div class="button-style-wrapper"><a href="#" class="button big w-button">Big Button</a></div>
-          <div class="button-style-wrapper"><a href="#" class="button big ghost w-button">Big Button</a></div>
-          <div class="button-style-wrapper dark-bg"><a href="#" class="button big white w-button">Big Button</a></div>
-          <div class="button-style-wrapper dark-bg"><a href="#" class="button big ghost-bg w-button">Big Button</a>
-          </div>
-          <div class="button-style-wrapper"><a href="#" class="button w-button">Default Button</a></div>
-          <div class="button-style-wrapper"><a href="#" class="button ghost w-button">Default Button</a></div>
-          <div class="button-style-wrapper dark-bg"><a href="#" class="button white w-button">Default Button</a></div>
-          <div class="button-style-wrapper dark-bg"><a href="#" class="button ghost-bg w-button">Default Button</a>
-          </div>
-          <div class="button-style-wrapper"><a href="#" class="button small w-button">Small Button</a></div>
-          <div class="button-style-wrapper"><a href="#" class="button small ghost w-button">Small Button</a></div>
-          <div class="button-style-wrapper dark-bg"><a href="#" class="button small white w-button">Small Button</a>
-          </div>
-          <div class="button-style-wrapper dark-bg"><a href="#" class="button small ghost-bg w-button">Small Button</a>
+      <div class="wrapper">
+        <div class="shop-header">
+          <h3>Related Products</h3><a href="catalog.php" class="link arrow-link">See All</a>
+          <div class="shop-header-line">
+            <div class="shop-header-color"></div>
           </div>
         </div>
-        <div class="style-block">
-          <h1>Super Heading Number 1<br />King of Headings</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum
-            tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae
-            erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
-            posuere.</p>
-          <h2>Super Heading Number 2<br />Heading&#x27;s Revenge</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum
-            tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae
-            erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
-            posuere.</p>
-          <h3>Super Heading Number 3<br />Rise of Headings</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum
-            tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae
-            erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
-            posuere.</p>
-          <h4>Super Heading Number 4<br />Heading&#x27;s Fall</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum
-            tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae
-            erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
-            posuere.</p>
-          <h5>Super Heading Number 5<br />Return of the Heading</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum
-            tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae
-            erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
-            posuere.</p>
-          <h6>Super Heading Number 6<br />The Last Heading</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum
-            tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae
-            erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
-            posuere.</p>
+        <div class="full-width w-dyn-list">
+          <div role="list" class="products w-dyn-items">
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/dress batik.php" class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/batik3.jpg"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/batik3.jpg 500w, ../images/batik3.jpg 1200w" />
+                </div>
+                <h6 class="product-card-heading">Dress Batik</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">$ 24.00 USD</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/little-rabbit.php"
+                class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/33504-4-wooden-toy-transparent-min.png"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/33504-4-wooden-toy-transparent-min-p-800.png 800w, ../images/33504-4-wooden-toy-transparent-min-p-1080.png 1080w, ../images/33504-4-wooden-toy-transparent-min.png 1200w" />
+                </div>
+                <h6 class="product-card-heading">Little Rabbit</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">$ 16.00 USD</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/rok batik.php"
+                class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/batik4.jpg"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/batik4.jpg 500w, ../images/batik4.jpg 1200w" />
+                </div>
+                <h6 class="product-card-heading">Rok Batik</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">$ 27.00 USD</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/wooden-camera.php"
+                class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/33631-9-wooden-toy-photo-min.png"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/33631-9-wooden-toy-photo-min-p-500.png 500w, ../images/33631-9-wooden-toy-photo-min.png 1200w" />
+                </div>
+                <h6 class="product-card-heading">Wooden Camera</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">$ 32.00 USD</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/caterpillar.php"
+                class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/33371-3-wooden-toy-min.png"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/33371-3-wooden-toy-min-p-500.png 500w, ../images/33371-3-wooden-toy-min.png 1200w" />
+                </div>
+                <h6 class="product-card-heading">Caterpillar</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">$ 18.00 USD</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/happy-flower.php"
+                class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/33727-9-wooden-toy-transparent-image-min-2.png"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/33727-9-wooden-toy-transparent-image-min-p-500-1.png 500w, ../images/33727-9-wooden-toy-transparent-image-min-2.png 1200w" />
+                </div>
+                <h6 class="product-card-heading">Happy Flower</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">$ 38.00 USD</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/batik lurik.php"
+                class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/lurik1.jpg"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/lurik1.jpg 500w, ../images/lurik1.jpg 1200w" />
+                </div>
+                <h6 class="product-card-heading">Batik Lurik</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">$ 19.00 USD</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/happy-dog.php" class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/33388-1-wooden-toy-photos-min.png"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/33388-1-wooden-toy-photos-min-p-500.png 500w, ../images/33388-1-wooden-toy-photos-min.png 1200w" />
+                </div>
+                <h6 class="product-card-heading">Happy Dog</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">$ 30.00 USD</div>
+              </a></div>
+          </div>
         </div>
-        <div class="style-block">
-          <h5>Paragraph Default</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum
-            tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae
-            erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique
-            posuere.</p>
-          <h6>Paragraph Small</h6>
-          <p class="paragraph-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in
-            eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam
-            libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus
-            tristique posuere.</p>
-        </div>
-        <div class="style-block">
-          <div class="w-richtext">
-            <h2>What’s a Rich Text element?</h2>
-            <p>The rich text element allows you to create and format headings, paragraphs, blockquotes, images, and
-              video all in one place instead of having to add and format them individually. Just double-click and easily
-              create content.</p>
-            <h4>Static and dynamic content editing</h4>
-            <p>A rich text element can be used with static or dynamic content. For static content, just drop it into any
-              page and begin editing. For dynamic content, add a rich text field to any collection and then connect a
-              rich text element to that field in the settings panel. Voila!</p>
-            <h4>How to customize formatting for each rich text</h4>
-            <p>Headings, paragraphs, blockquotes, figures, images, and figure captions can all be styled after a class
-              is added to the rich text element using the &quot;When inside of&quot; nested selector system.</p>
+      </div>
+    </div>
+    <div class="section no-padding-top">
+      <div class="wrapper side-paddings">
+        <div data-w-id="e89551e9-b5ae-51a6-c418-02c90497790c" class="subscribe">
+          <div class="subscribe-info">
+            <div class="subscribe-icon"><img src="../images/paperplane-icon-white.svg" alt="" /></div>
+            <h4>Subscribe to our newsletter<br />&amp; get <span class="text-green">10% discount!</span></h4>
+          </div>
+          <div class="subscribe-form-wrapper w-form">
+            <form id="wf-form-Subscribe-Form" name="wf-form-Subscribe-Form" data-name="Subscribe Form" method="get"
+              class="subscribe-form" data-wf-page-id="5baddb6a35e11306e19a4806"
+              data-wf-element-id="e89551e9-b5ae-51a6-c418-02c904977917"><input class="input subscribe-input w-input"
+                maxlength="256" name="email-2" data-name="Email 2" placeholder="Enter your email address" type="email"
+                id="email-2" required="" /><input type="submit" data-wait="Please wait..." class="button w-button"
+                value="Subscribe" /></form>
+            <div class="form-success w-form-done">
+              <div>Thank you! Your submission has been received!</div>
+            </div>
+            <div class="form-error w-form-fail">
+              <div>Oops! Something went wrong while submitting the form.</div>
+            </div>
           </div>
         </div>
       </div>
@@ -460,12 +631,12 @@
     <div class="section color no-padding-vertical">
       <div class="wrapper text-white">
         <div class="footer">
-          <div class="footer-left"><a href="/" class="footer-brand w-nav-brand">
+          <div class="footer-left"><a href="index.php" class="footer-brand w-nav-brand">
               <div>Shopify</div>
             </a></div>
-          <div class="footer-nav"><a href="/" class="footer-link">Home</a><a href="/catalog.html"
-              class="footer-link">Catalog</a><a href="/delivery.html" class="footer-link">Delivery</a><a href="/about.html"
-              class="footer-link">About</a><a href="/contacts.html" class="footer-link">Contacts</a></div>
+          <div class="footer-nav"><a href="index.php" class="footer-link">Home</a><a href="catalog.php"
+              class="footer-link">Catalog</a><a href="delivery.php" class="footer-link">Delivery</a><a href="about.php"
+              class="footer-link">About</a><a href="contacts.php" class="footer-link">Contacts</a></div>
           <div class="footer-social"><a href="https://elasticthemes.com" target="_blank"
               class="footer-social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
               href="https://elasticthemes.com" target="_blank" class="footer-social-link w-inline-block"><img
@@ -482,8 +653,8 @@
             </div>
             <div class="footer-bottom-right">
               <div>Powered by <a href="https://webflow.com/" target="_blank" class="link-white">Webflow</a></div>
-              <div class="footer-bottom-divider"></div><a href="/template/style-guide" aria-current="page"
-                class="link-white w--current">Style Guide</a>
+              <div class="footer-bottom-divider"></div><a href="/template/style-guide" class="link-white">Style
+                Guide</a>
               <div class="footer-bottom-divider"></div><a href="/template/licensing" class="link-white">Licensing</a>
             </div>
           </div>

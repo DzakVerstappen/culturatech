@@ -69,13 +69,13 @@
         </div>
       </div>
       <div class="nav-main">
-        <div class="wrapper nav-bar-wrapper"><a href="/" class="brand w-nav-brand">
+        <div class="wrapper nav-bar-wrapper"><a href="index.php" class="brand w-nav-brand">
             <div>Shopify</div>
           </a>
           <div class="navigation">
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="/catalog.html"
-                class="nav-link w-nav-link">Catalog</a><a href="/delivery.html" class="nav-link w-nav-link">Delivery</a><a
-                href="/about.html" class="nav-link w-nav-link">About</a><a href="/contacts.html"
+            <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
+                class="nav-link w-nav-link">Catalog</a><a href="delivery.php" class="nav-link w-nav-link">Delivery</a><a
+                href="about.php" class="nav-link w-nav-link">About</a><a href="contacts.php"
                 class="nav-link w-nav-link">Contacts</a></nav>
             <div class="menu-button w-nav-button">
               <div class="w-icon-nav-menu"></div>
@@ -331,7 +331,7 @@
                             </a></div>
                           <div
                             data-wf-paypal-button="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;color&quot;:&quot;blue&quot;,&quot;shape&quot;:&quot;pill&quot;,&quot;label&quot;:&quot;paypal&quot;,&quot;tagline&quot;:false,&quot;note&quot;:false}"
-                            class="cart-pay-button"></div><a href="/checkout.html" value="Continue to Checkout"
+                            class="cart-pay-button"></div><a href="checkout.php" value="Continue to Checkout"
                             data-node-type="cart-checkout-button" class="w-commerce-commercecartcheckoutbutton button"
                             data-loading-text="Hang Tight...">Continue to Checkout</a>
                         </div>
@@ -360,8 +360,8 @@
     </div>
     <div class="section no-padding-vertical">
       <div class="wrapper side-paddings">
-        <div class="breadcrumbs"><a href="/" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
-            alt="" class="breadcrumbs-arrow" /><a href="/catalog.html" class="link-grey">Catalog</a><img
+        <div class="breadcrumbs"><a href="index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
+            alt="" class="breadcrumbs-arrow" /><a href="catalog.php" class="link-grey">Catalog</a><img
             src="../images/arrow-right-mini-icon-1.svg" alt="" class="breadcrumbs-arrow" />
           <div>Kebaya Surjan</div>
         </div>
@@ -389,7 +389,7 @@
                     class="w-commerce-commerceaddtocartbutton button add-to-cart-button" value="Add to Cart" /><a
                     data-node-type="commerce-buy-now-button" data-default-text="Buy now"
                     data-subscription-text="Subscribe now" aria-busy="false" aria-haspopup="false"
-                    class="w-commerce-commercebuynowbutton button buy-now-button" href="/checkout.html">Buy now</a></div>
+                    class="w-commerce-commercebuynowbutton button buy-now-button" href="/checkout.php">Buy now</a></div>
               </form>
               <div style="display:none" class="w-commerce-commerceaddtocartoutofstock out-of-stock" tabindex="0">
                 <div>This product is out of stock.</div>
@@ -491,7 +491,7 @@
     <div class="section">
       <div class="wrapper">
         <div class="shop-header">
-          <h3>Related Products</h3><a href="/catalog.html" class="link arrow-link">See All</a>
+          <h3>Related Products</h3><a href="catalog.php" class="link arrow-link">See All</a>
           <div class="shop-header-line">
             <div class="shop-header-color"></div>
           </div>
@@ -499,7 +499,7 @@
         <div class="full-width w-dyn-list">
           <div role="list" class="products w-dyn-items">
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/rok batik.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/rok batik.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -512,7 +512,7 @@
                   class="product-card-price">$ 27.00 USD</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/batik perempuan.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/batik perempuan.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -525,7 +525,7 @@
                   class="product-card-price">$ 38.00 USD</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/batik cowo.html" class="product-card w-inline-block">
+              class="product-card-wrapper w-dyn-item"><a href="product/batik cowo.php" class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
                     src="../images/batik 1.jpg"
@@ -537,7 +537,7 @@
                   class="product-card-price">$ 30.00 USD</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/wooden-camera.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/wooden-camera.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -550,7 +550,7 @@
                   class="product-card-price">$ 32.00 USD</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/batik lurik.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/batik lurik.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -563,7 +563,7 @@
                   class="product-card-price">$ 19.00 USD</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/wooden-tractor.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/wooden-tractor.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -576,7 +576,7 @@
                   class="product-card-price">$ 22.00 USD</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/lift-machine.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/lift-machine.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -589,7 +589,7 @@
                   class="product-card-price">$ 24.00 USD</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/dress batik.html" class="product-card w-inline-block">
+              class="product-card-wrapper w-dyn-item"><a href="product/dress batik.php" class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
                     src="../images/batik3.jpg"
@@ -631,12 +631,12 @@
     <div class="section color no-padding-vertical">
       <div class="wrapper text-white">
         <div class="footer">
-          <div class="footer-left"><a href="/" class="footer-brand w-nav-brand">
+          <div class="footer-left"><a href="index.php" class="footer-brand w-nav-brand">
               <div>Shopify</div>
             </a></div>
-          <div class="footer-nav"><a href="/" class="footer-link">Home</a><a href="/catalog.html"
-              class="footer-link">Catalog</a><a href="/delivery.html" class="footer-link">Delivery</a><a href="/about.html"
-              class="footer-link">About</a><a href="/contacts.html" class="footer-link">Contacts</a></div>
+          <div class="footer-nav"><a href="index.php" class="footer-link">Home</a><a href="catalog.php"
+              class="footer-link">Catalog</a><a href="delivery.php" class="footer-link">Delivery</a><a href="about.php"
+              class="footer-link">About</a><a href="contacts.php" class="footer-link">Contacts</a></div>
           <div class="footer-social"><a href="https://elasticthemes.com" target="_blank"
               class="footer-social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
               href="https://elasticthemes.com" target="_blank" class="footer-social-link w-inline-block"><img

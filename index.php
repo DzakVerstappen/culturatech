@@ -418,7 +418,7 @@
         <div class="full-width w-dyn-list">
           <div role="list" class="products w-dyn-items">
             <div data-w-id="86c7c915-bcbe-c30c-93c0-5bed50ef155d" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/batik cowo.html" class="product-card w-inline-block">
+              class="product-card-wrapper w-dyn-item"><a href="product/batik cowo.php" class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
                     src="images/batik 1.jpg" sizes="100vw"
@@ -429,7 +429,7 @@
                   class="product-card-price">Rp. 250.000 IDR</div>
               </a></div>
             <div data-w-id="86c7c915-bcbe-c30c-93c0-5bed50ef155d" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/batik perempuan.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/batik perempuan.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -441,7 +441,7 @@
                   class="product-card-price">Rp. 300.000 IDR</div>
               </a></div>
             <div data-w-id="86c7c915-bcbe-c30c-93c0-5bed50ef155d" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/dress batik.html" class="product-card w-inline-block">
+              class="product-card-wrapper w-dyn-item"><a href="product/dress batik.php" class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
                     src="images/batik3.jpg" sizes="100vw"
@@ -452,7 +452,7 @@
                   class="product-card-price">Rp. 400.000 IDR</div>
               </a></div>
             <div data-w-id="86c7c915-bcbe-c30c-93c0-5bed50ef155d" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/rok batik.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/rok batik.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -464,7 +464,7 @@
                   class="product-card-price">Rp. 315.000 IDR</div>
               </a></div>
             <div data-w-id="86c7c915-bcbe-c30c-93c0-5bed50ef155d" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/batik lurik.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/batik lurik.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -476,7 +476,7 @@
                   class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
               <div data-w-id="86c7c915-bcbe-c30c-93c0-5bed50ef155d" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/little-friend.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/little-friend.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -488,7 +488,7 @@
                   class="product-card-price">Rp. 350.000 IDR</div>
               </a></div>
               <div data-w-id="86c7c915-bcbe-c30c-93c0-5bed50ef155d" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/little-friend.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/little-friend.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -500,7 +500,7 @@
                   class="product-card-price">Rp. 230.000 IDR</div>
               </a></div>
               <div data-w-id="86c7c915-bcbe-c30c-93c0-5bed50ef155d" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/little-friend.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/little-friend.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -528,7 +528,7 @@
         <div class="full-width w-dyn-list">
           <div role="list" class="products w-dyn-items">
             <div data-w-id="a677a252-157c-7121-064d-fe101c861b40" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/happy-flower.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/happy-flower.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -540,7 +540,7 @@
                   class="product-card-price">Rp. 80.000 IDR</div>
               </a></div>
             <div data-w-id="a677a252-157c-7121-064d-fe101c861b40" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/lift-machine.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/lift-machine.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -552,7 +552,7 @@
                   class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
             <div data-w-id="a677a252-157c-7121-064d-fe101c861b40" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/wooden-camera.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/wooden-camera.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -564,7 +564,7 @@
                   class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
             <div data-w-id="a677a252-157c-7121-064d-fe101c861b40" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/little-rabbit.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/little-rabbit.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -592,7 +592,7 @@
         <div class="full-width w-dyn-list">
           <div role="list" class="products w-dyn-items">
             <div data-w-id="a677a252-157c-7121-064d-fe101c861b40" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/happy-flower.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/happy-flower.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -604,7 +604,7 @@
                   class="product-card-price">Rp. 45.000 IDR</div>
               </a></div>
             <div data-w-id="a677a252-157c-7121-064d-fe101c861b40" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/lift-machine.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/lift-machine.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -616,7 +616,7 @@
                   class="product-card-price">Rp. 35.000 IDR</div>
               </a></div>
             <div data-w-id="a677a252-157c-7121-064d-fe101c861b40" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/wooden-camera.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/wooden-camera.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -628,7 +628,7 @@
                   class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
             <div data-w-id="a677a252-157c-7121-064d-fe101c861b40" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="/product/little-rabbit.html"
+              class="product-card-wrapper w-dyn-item"><a href="product/little-rabbit.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -666,7 +666,7 @@
                   "width": 940,
                   "height": 528,
                   "thumbnailUrl": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
-                  "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdQw4w9WgXcQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdQw4w9WgXcQ%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
+                  "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.php?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdQw4w9WgXcQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdQw4w9WgXcQ%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
                   "type": "video"
                 }],
                 "group": ""

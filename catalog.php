@@ -331,7 +331,7 @@
                             </a></div>
                           <div
                             data-wf-paypal-button="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;color&quot;:&quot;blue&quot;,&quot;shape&quot;:&quot;pill&quot;,&quot;label&quot;:&quot;paypal&quot;,&quot;tagline&quot;:false,&quot;note&quot;:false}"
-                            class="cart-pay-button"></div><a href="/checkout.html" value="Continue to Checkout"
+                            class="cart-pay-button"></div><a href="checkout.php" value="Continue to Checkout"
                             data-node-type="cart-checkout-button" class="w-commerce-commercecartcheckoutbutton button"
                             data-loading-text="Hang Tight...">Continue to Checkout</a>
                         </div>
@@ -374,11 +374,11 @@
               class="shop-category-link w--current">All Product</a>
             <div class="w-dyn-list">
               <div role="list" class="shop-categories w-dyn-items">
-                <div role="listitem" class="w-dyn-item"><a href="/category/wooden-toys.html"
+                <div role="listitem" class="w-dyn-item"><a href="category/kerajinan-tangan.php"
                     class="shop-category-link">Kerajinan Tangan</a></div>
-                <div role="listitem" class="w-dyn-item"><a href="/category/stuffed-animals.html"
+                <div role="listitem" class="w-dyn-item"><a href="category/pakaian.php"
                     class="shop-category-link">Pakaian</a></div>
-                <div role="listitem" class="w-dyn-item"><a href="/category/makanan-khas.html"
+                <div role="listitem" class="w-dyn-item"><a href="category/makanan-khas.php"
                     class="shop-category-link">Makanan Khas</a></div>
               </div>
             </div>
@@ -389,7 +389,7 @@
         </div>
         <div class="full-width w-dyn-list">
           <div role="list" class="products w-dyn-items">
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/batik cowo.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/batik cowo.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -401,7 +401,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 250.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/happy-flower.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/miniatur-wayang.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -413,7 +413,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 80.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/batik perempuan.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/batik perempuan.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -425,7 +425,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 300.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/lift-machine.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/topeng.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -437,7 +437,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/dress batik.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/dress batik.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -449,7 +449,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 400.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/wooden-camera.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/patung-rama.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -461,7 +461,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/little-rabbit.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/asbak.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -473,7 +473,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/rok batik.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/rok batik.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -485,7 +485,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 315.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/batik lurik.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/batik lurik.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -497,7 +497,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/rainbow-truck.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/rainbow-truck.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -509,7 +509,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 45.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya jogja.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/kebaya jogja.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -521,7 +521,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 230.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/happy-dog.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/happy-dog.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -533,7 +533,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 35.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/caterpillar.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/caterpillar.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -545,7 +545,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya kutu.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/kebaya kutu.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -557,7 +557,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 300.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/wooden-tractor.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/wooden-tractor.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -569,7 +569,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 35.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya surjan.html"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/kebaya surjan.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -577,7 +577,7 @@
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
                     srcset="images/kebaya3.jpg 500w, images/kebaya3.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Lurik Perempuan</h6>
+                <h6 class="product-card-heading">Kebaya Surjan</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 350.000 IDR</div>
               </a></div>
