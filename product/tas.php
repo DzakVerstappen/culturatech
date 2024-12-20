@@ -55,7 +55,7 @@
         <div class="wrapper nav-top-wrapper">
           <div class="nav-top-info">
             <div class="nav-top-text">Call Us: +1 213 974-5898</div>
-            <div class="w-hidden-tiny">Email: <a href="#" class="link-white">toystore@template.com</a></div>
+            <div class="w-hidden-tiny">Email: <a href="#" class="link-white">Shopify@gmail.com</a></div>
           </div>
           <div class="nav-top-social"><a href="https://elasticthemes.com" target="_blank"
               class="social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
@@ -409,9 +409,9 @@
           </div>
           <div class="product-image-wrapper"><img alt=""
               data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-              src="../images/33388-1-wooden-toy-photos-min.png"
+              src="../images/kerajinan5.jpg"
               sizes="(max-width: 479px) 83vw, (max-width: 767px) 75vw, (max-width: 991px) 76vw, 32vw"
-              srcset="../images/33388-1-wooden-toy-photos-min-p-500.png 500w, ../images/33388-1-wooden-toy-photos-min.png 1200w"
+              srcset="../images/kerajinan5.jpg 500w, ../images/kerajinan5.jpg 1200w"
               class="full-width" /></div>
           <div class="product-details-wrapper">
             <div class="shop-header">
@@ -515,9 +515,9 @@
               class="product-card-wrapper w-dyn-item"><a href="product/topeng.php" class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33903-2-plush-toy-transparent-image-min-2.png"
+                    src="../images/kerajinan2.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33903-2-plush-toy-transparent-image-min-p-500-1.png 500w, ../images/33903-2-plush-toy-transparent-image-min-2.png 1200w" />
+                    srcset="../images/kerajinan2.jpg 500w, ../images/kerajinan2.jpg 1200w" />
                 </div>
                 <h6 class="product-card-heading">Topeng</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
@@ -567,9 +567,9 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33631-9-wooden-toy-photo-min.png"
+                    src="../images/kerajinan7.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33631-9-wooden-toy-photo-min-p-500.png 500w, ../images/33631-9-wooden-toy-photo-min.png 1200w" />
+                    srcset="../images/kerajinan7.jpg 500w, ../images/kerajinan7.jpg 1200w" />
                 </div>
                 <h6 class="product-card-heading">Vas Bunga</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"

@@ -55,7 +55,7 @@
         <div class="wrapper nav-top-wrapper">
           <div class="nav-top-info">
             <div class="nav-top-text">Call Us: +1 213 974-5898</div>
-            <div class="w-hidden-tiny">Email: <a href="#" class="link-white">toystore@template.com</a></div>
+            <div class="w-hidden-tiny">Email: <a href="#" class="link-white">Shopify@gmail.com</a></div>
           </div>
           <div class="nav-top-social"><a href="https://elasticthemes.com" target="_blank"
               class="social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
@@ -376,7 +376,7 @@
               Writing result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take
               action. There is no magic formula to write perfect ad copy. It is based on a number of factors.</p>
             <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-              class="product-price">Rp. 300.000 </div>
+              class="product-price">Rp. 300.000 IDR</div>
             <div class="full-width">
               <form data-node-type="commerce-add-to-cart-form" data-commerce-sku-id="5bae12591c68cc62c625c461"
                 data-loading-text="Adding to cart..." data-commerce-product-id="5bae12599395551b46b8b58a"
