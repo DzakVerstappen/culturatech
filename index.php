@@ -73,7 +73,7 @@
           <div class="navigation">
             <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
                 class="nav-link w-nav-link">Catalog</a><a href="delivery.php" class="nav-link w-nav-link">Delivery</a><a
-                href="about.php" class="nav-link w-nav-link">About</a><a href="/add_product.html" class="nav-link w-nav-link">Add Product</a><a href="contacts.php"
+                href="about.php" class="nav-link w-nav-link">About</a><a href="contacts.php"
                 class="nav-link w-nav-link">Contacts</a>
             </nav>
             <div class="menu-button w-nav-button">
@@ -328,7 +328,7 @@
                             </a></div>
                           <div
                             data-wf-paypal-button="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;color&quot;:&quot;blue&quot;,&quot;shape&quot;:&quot;pill&quot;,&quot;label&quot;:&quot;paypal&quot;,&quot;tagline&quot;:false,&quot;note&quot;:false}"
-                            class="cart-pay-button"></div><a href="/checkout" value="Continue to Checkout"
+                            class="cart-pay-button"></div><a href="checkout.php" value="Continue to Checkout"
                             data-node-type="cart-checkout-button" class="w-commerce-commercecartcheckoutbutton button"
                             data-loading-text="Hang Tight...">Continue to Checkout</a>
                         </div>
@@ -758,14 +758,14 @@
     <div class="section color no-padding-vertical">
       <div class="wrapper text-white">
         <div class="footer">
-          <div class="footer-left"><a href="/" aria-current="page" class="footer-brand w-nav-brand w--current">
+          <div class="footer-left"><a href="index.php" aria-current="page" class="footer-brand w-nav-brand w--current">
               <div>Shopify</div>
             </a></div>
 
 
           <div class="footer-nav"><a href="index.php" aria-current="page" class="footer-link w--current">Home</a><a
-              href="catalog.php" class="footer-link">Catalog</a><a href="/delivery.html" class="footer-link">Delivery</a><a
-              href="/about.html" class="footer-link">About</a><a href="/contacts.html" class="footer-link">Contacts</a></div>
+              href="catalog.php" class="footer-link">Catalog</a><a href="delivery.php" class="footer-link">Delivery</a><a
+              href="about.php" class="footer-link">About</a><a href="contacts.php" class="footer-link">Contacts</a></div>
               
           <div class="footer-social">
             <a href="https://x.com/cwookiesc?t=etALo2Gie5QIWoReiYYTFw&s=09" target="_blank"
