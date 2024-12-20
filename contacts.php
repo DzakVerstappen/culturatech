@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="5baf791a7a16ad127cda1ebc" data-wf-site="5badda2935e11303a89a461e">
+<html data-wf-page="5bb4b09dbfd9281bfcd8d51e" data-wf-site="5badda2935e11303a89a461e">
 
 <head>
   <meta charset="utf-8" />
@@ -69,14 +69,14 @@
         </div>
       </div>
       <div class="nav-main">
-        <div class="wrapper nav-bar-wrapper"><a href="/" class="brand w-nav-brand">
+        <div class="wrapper nav-bar-wrapper"><a href="index.php" class="brand w-nav-brand">
             <div>Shopify</div>
           </a>
           <div class="navigation">
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="/catalog.html" aria-current="page"
-                class="nav-link w-nav-link w--current">Catalog</a><a href="/delivery.html"
-                class="nav-link w-nav-link">Delivery</a><a href="/about.html" class="nav-link w-nav-link">About</a>
-                <a href="/add_product.html" class="nav-link w-nav-link">Add Product</a><a href="/contacts.html" class="nav-link w-nav-link">Contacts</a></nav>
+            <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
+                class="nav-link w-nav-link">Catalog</a><a href="delivery.php" class="nav-link w-nav-link">Delivery</a><a
+                href="about.php" class="nav-link w-nav-link">About</a><a href="contacts.php" aria-current="page"
+                class="nav-link w-nav-link w--current">Contacts</a></nav>
             <div class="menu-button w-nav-button">
               <div class="w-icon-nav-menu"></div>
             </div>
@@ -360,256 +360,62 @@
     </div>
     <div class="section no-padding-vertical">
       <div class="wrapper side-paddings">
-        <div class="breadcrumbs"><a href="/" class="link-grey">Home</a><img src="images/arrow-right-mini-icon-1.svg"
+        <div class="breadcrumbs"><a href="index.php" class="link-grey">Home</a><img src="images/arrow-right-mini-icon-1.svg"
             alt="" class="breadcrumbs-arrow" />
-          <div>Catalog</div>
+          <div>Contacts</div>
         </div>
       </div>
     </div>
-    <div class="section">
-      <div class="wrapper">
-        <div class="shop-header">
-          <h3 class="no-margin w-hidden-small w-hidden-tiny">All Product</h3>
-          <div class="shop-categories-wrapper"><a href="/catalog.html" aria-current="page"
-              class="shop-category-link w--current">All Product</a>
-            <div class="w-dyn-list">
-              <div role="list" class="shop-categories w-dyn-items">
-                <div role="listitem" class="w-dyn-item"><a href="/category/wooden-toys.html"
-                    class="shop-category-link">Kerajinan Tangan</a></div>
-                <div role="listitem" class="w-dyn-item"><a href="/category/stuffed-animals.html"
-                    class="shop-category-link">Pakaian</a></div>
-                <div role="listitem" class="w-dyn-item"><a href="/category/makanan-khas.html"
-                    class="shop-category-link">Makanan Khas</a></div>
+    <div class="section no-padding-top">
+      <div class="wrapper side-paddings">
+        <div class="contacts">
+          <div class="map w-widget w-widget-map" data-widget-style="roadmap" data-widget-latlng=""
+            data-enable-scroll="true" role="" title="" data-enable-touch="true" data-widget-zoom="12"
+            data-widget-tooltip=""></div>
+          <div class="contact-form-wrapper">
+            <h4 class="contact-heading">Leave a Message</h4>
+            <div class="w-form">
+              <form id="email-form" name="email-form" data-name="Email Form" method="get"
+                data-wf-page-id="5bb4b09dbfd9281bfcd8d51e" data-wf-element-id="d96b2bf2-3a5d-0de0-24cd-680b60234d76">
+                <label for="Contact-Name" class="label">Full Name</label><input class="input w-input" maxlength="256"
+                  name="Contact-Name" data-name="Contact Name" placeholder="Enter your name" type="text"
+                  id="Contact-Name" /><label for="Contact-Email" class="label">Email Address</label><input
+                  class="input w-input" maxlength="256" name="Contact-Email" data-name="Contact Email"
+                  placeholder="Your contact email" type="email" id="Contact-Email" required="" /><label
+                  for="Contact-Message" class="label">Email Address</label><textarea id="Contact-Message"
+                  name="Contact-Message" placeholder="Message text..." maxlength="5000" data-name="Contact Message"
+                  required="" class="input text-area w-input"></textarea><input type="submit" data-wait="Please wait..."
+                  class="button w-button" value="Send Message" /></form>
+              <div class="w-form-done">
+                <div>Thank you! Your submission has been received!</div>
+              </div>
+              <div class="w-form-fail">
+                <div>Oops! Something went wrong while submitting the form.</div>
               </div>
             </div>
           </div>
-          <div class="shop-header-line">
-            <div class="shop-header-color green w-hidden-small w-hidden-tiny"></div>
-          </div>
-        </div>
-        <div class="full-width w-dyn-list">
-          <div role="list" class="products w-dyn-items">
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/batik cowo.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/batik 1.jpg" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/batik 1.jpg 500w, images/batik 1.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Batik</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 30.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/happy-flower.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33727-9-wooden-toy-transparent-image-min-2.png" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33727-9-wooden-toy-transparent-image-min-p-500-1.png 500w, images/33727-9-wooden-toy-transparent-image-min-2.png 1200w" />
-                </div>
-                <h6 class="product-card-heading">Happy Flower</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 38.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/batik perempuan.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/batik2.jpg" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/batik2.jpg 500w, images/batik2.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Batik Perempuan</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 38.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/lift-machine.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33505-6-wooden-toy-clipart-min.png" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33505-6-wooden-toy-clipart-min-p-500.png 500w, images/33505-6-wooden-toy-clipart-min.png 1200w" />
-                </div>
-                <h6 class="product-card-heading">Lift Machine</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 24.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/dress batik.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/batik3.jpg" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/batik3.jpg 500w, images/batik3.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Dress Batik</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 24.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/wooden-camera.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33631-9-wooden-toy-photo-min.png" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33631-9-wooden-toy-photo-min-p-500.png 500w, images/33631-9-wooden-toy-photo-min.png 1200w" />
-                </div>
-                <h6 class="product-card-heading">Wooden Camera</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 32.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/little-rabbit.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33504-4-wooden-toy-transparent-min.png" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33504-4-wooden-toy-transparent-min-p-800.png 800w, images/33504-4-wooden-toy-transparent-min-p-1080.png 1080w, images/33504-4-wooden-toy-transparent-min.png 1200w" />
-                </div>
-                <h6 class="product-card-heading">Little Rabbit</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 16.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/rok batik.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/batik4.jpg" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/batik4.jpg 500w, images/batik4.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Rok Batik</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 27.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/batik lurik.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/lurik1.jpg" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/lurik1.jpg 500w, images/lurik1.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Batik Lurik</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 19.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/rainbow-truck.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33649-6-toy-transparent-image-min.png" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33649-6-toy-transparent-image-min-p-500.png 500w, images/33649-6-toy-transparent-image-min.png 1200w" />
-                </div>
-                <h6 class="product-card-heading">Rainbow Truck</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 28.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya jogja.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/kebaya1.jpg" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/kebaya1.jpg 500w, images/kebaya1.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Kebaya Jogja</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 28.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/happy-dog.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33388-1-wooden-toy-photos-min.png" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33388-1-wooden-toy-photos-min-p-500.png 500w, images/33388-1-wooden-toy-photos-min.png 1200w" />
-                </div>
-                <h6 class="product-card-heading">Happy Dog</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 30.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/caterpillar.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33371-3-wooden-toy-min.png" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33371-3-wooden-toy-min-p-500.png 500w, images/33371-3-wooden-toy-min.png 1200w" />
-                </div>
-                <h6 class="product-card-heading">Caterpillar</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 18.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya kutu.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/kebaya2.jpg" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/kebaya2.jpg 500w, images/kebaya2.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Kebaya Kutu Baru</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 45.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/wooden-tractor.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33476-9-wooden-toy-hd-min.png" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33476-9-wooden-toy-hd-min-p-800.png 800w, images/33476-9-wooden-toy-hd-min.png 1200w" />
-                </div>
-                <h6 class="product-card-heading">Wooden Tractor</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 22.00 USD</div>
-              </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya surjan.html"
-                class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/kebaya3.jpg" alt=""
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/kebaya3.jpg 500w, images/kebaya3.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Kebaya Surjan</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 36.00 USD</div>
-              </a></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="section no-padding-vertical">
-      <div class="wrapper side-paddings">
-        <div data-w-id="e89551e9-b5ae-51a6-c418-02c90497790c" class="subscribe">
-          <div class="subscribe-info">
-            <div class="subscribe-icon"><img src="images/paperplane-icon-white.svg" alt="" /></div>
-            <h4>Subscribe to our newsletter<br />&amp; get <span class="text-green">10% discount!</span></h4>
-          </div>
-          <div class="subscribe-form-wrapper w-form">
-            <form id="wf-form-Subscribe-Form" name="wf-form-Subscribe-Form" data-name="Subscribe Form" method="get"
-              class="subscribe-form" data-wf-page-id="5baf791a7a16ad127cda1ebc"
-              data-wf-element-id="e89551e9-b5ae-51a6-c418-02c904977917"><input class="input subscribe-input w-input"
-                maxlength="256" name="email-2" data-name="Email 2" placeholder="Enter your email address" type="email"
-                id="email-2" required="" /><input type="submit" data-wait="Please wait..." class="button w-button"
-                value="Subscribe" /></form>
-            <div class="form-success w-form-done">
-              <div>Thank you! Your submission has been received!</div>
-            </div>
-            <div class="form-error w-form-fail">
-              <div>Oops! Something went wrong while submitting the form.</div>
+          <div class="contact-info">
+            <h4 class="contact-heading">Contact Info</h4>
+            <div>4293  Euclid Avenue, Los Angeles, CA 90012</div>
+            <div>+1 213 974-3898</div><a href="mailto:Your Email Here?subject=ToyStore"
+              class="link">Shopify@template.com</a>
+            <div class="contact-social">
+              <h5 class="contact-social-heading">Follow Us</h5><a href="https://elasticthemes.com" target="_blank"
+                class="contact-social-link twitter w-inline-block"><img src="images/twitter-icon-white.svg"
+                  alt="" /></a><a href="https://elasticthemes.com" target="_blank"
+                class="contact-social-link facebook w-inline-block"><img src="images/facebook-icon-white.svg"
+                  alt="" /></a><a href="https://elasticthemes.com" target="_blank"
+                class="contact-social-link insta w-inline-block"><img src="images/instagram-icon-white.svg"
+                  alt="" /></a><a href="https://elasticthemes.com" target="_blank"
+                class="contact-social-link pinterest w-inline-block"><img src="images/pinterest-icon-white.svg"
+                  alt="" /></a><a href="https://elasticthemes.com" target="_blank"
+                class="contact-social-link youtube w-inline-block"><img src="images/youtube-icon.svg" alt="" /></a>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="section">
+    <div class="section no-padding-top">
       <div class="wrapper">
         <div class="intro">
           <div class="title">@ElasticThemes</div>
@@ -629,15 +435,40 @@
           target="_blank" class="button w-button">See More Photos</a>
       </div>
     </div>
+    <div class="section no-padding-top">
+      <div class="wrapper side-paddings">
+        <div data-w-id="e89551e9-b5ae-51a6-c418-02c90497790c" class="subscribe">
+          <div class="subscribe-info">
+            <div class="subscribe-icon"><img src="images/paperplane-icon-white.svg" alt="" /></div>
+            <h4>Subscribe to our newsletter<br />&amp; get <span class="text-green">10% discount!</span></h4>
+          </div>
+          <div class="subscribe-form-wrapper w-form">
+            <form id="wf-form-Subscribe-Form" name="wf-form-Subscribe-Form" data-name="Subscribe Form" method="get"
+              class="subscribe-form" data-wf-page-id="5bb4b09dbfd9281bfcd8d51e"
+              data-wf-element-id="e89551e9-b5ae-51a6-c418-02c904977917"><input class="input subscribe-input w-input"
+                maxlength="256" name="email-2" data-name="Email 2" placeholder="Enter your email address" type="email"
+                id="email-2" required="" /><input type="submit" data-wait="Please wait..." class="button w-button"
+                value="Subscribe" /></form>
+            <div class="form-success w-form-done">
+              <div>Thank you! Your submission has been received!</div>
+            </div>
+            <div class="form-error w-form-fail">
+              <div>Oops! Something went wrong while submitting the form.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="section color no-padding-vertical">
       <div class="wrapper text-white">
         <div class="footer">
-          <div class="footer-left"><a href="/" class="footer-brand w-nav-brand">
+          <div class="footer-left"><a href="index.php" class="footer-brand w-nav-brand">
               <div>Shopify</div>
             </a></div>
-          <div class="footer-nav"><a href="/" class="footer-link">Home</a><a href="/catalog.html" aria-current="page"
-              class="footer-link w--current">Catalog</a><a href="/delivery.html" class="footer-link">Delivery</a><a
-              href="/about.html" class="footer-link">About</a><a href="/contacts.html" class="footer-link">Contacts</a></div>
+          <div class="footer-nav"><a href="index.php" class="footer-link">Home</a><a href="catalog.php"
+              class="footer-link">Catalog</a><a href="delivery.php" class="footer-link">Delivery</a><a href="about.php"
+              class="footer-link">About</a><a href="contacts.php" aria-current="page"
+              class="footer-link w--current">Contacts</a></div>
           <div class="footer-social"><a href="https://elasticthemes.com" target="_blank"
               class="footer-social-link w-inline-block"><img src="images/twitter-icon-white.svg" alt="" /></a><a
               href="https://elasticthemes.com" target="_blank" class="footer-social-link w-inline-block"><img

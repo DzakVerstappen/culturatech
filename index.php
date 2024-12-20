@@ -67,13 +67,13 @@
         </div>
       </div>
       <div class="nav-main">
-        <div class="wrapper nav-bar-wrapper"><a href="/" aria-current="page" class="brand w-nav-brand w--current">
+        <div class="wrapper nav-bar-wrapper"><a href="index.php" aria-current="page" class="brand w-nav-brand w--current">
             <div>Shopify</div>
           </a>
           <div class="navigation">
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="/catalog.html"
-                class="nav-link w-nav-link">Catalog</a><a href="/delivery.html" class="nav-link w-nav-link">Delivery</a><a
-                href="/about.html" class="nav-link w-nav-link">About</a><a href="/add_product.html" class="nav-link w-nav-link">Add Product</a><a href="/contacts.html"
+            <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
+                class="nav-link w-nav-link">Catalog</a><a href="delivery.php" class="nav-link w-nav-link">Delivery</a><a
+                href="about.php" class="nav-link w-nav-link">About</a><a href="/add_product.html" class="nav-link w-nav-link">Add Product</a><a href="contacts.php"
                 class="nav-link w-nav-link">Contacts</a>
             </nav>
             <div class="menu-button w-nav-button">
@@ -361,7 +361,7 @@
           style="-webkit-transform:translate3d(0, 0, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
           class="hero-intro">
           <div class="title">Say Hello to Shopify!</div>
-          <h1>Temukan Produk Terbaik dari UMKM Jogja!</h1><a href="/catalog.html" class="button w-button">Open Catalog</a>
+          <h1>Temukan Produk Terbaik dari UMKM Jogja!</h1><a href="catalog.php" class="button w-button">Open Catalog</a>
         </div>
       </div><a href="#Scroll-Section"
         style="opacity:0;-webkit-transform:translate3d(0, 0, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0.5, 0.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
@@ -379,7 +379,7 @@
               srcset="images/pakaian.png 500w, images/pakaian.png 1200w"
               sizes="(max-width: 479px) 64vw, (max-width: 991px) 176px, 220px" alt="" class="home-category-image-1" />
             <div class="home-category-info-1">
-              <h3>Pakaian</h3><a href="/catalog.html" class="button small white w-button">Shop Now</a>
+              <h3>Pakaian</h3><a href="catalog.php" class="button small white w-button">Shop Now</a>
             </div>
           </div>
           <div data-w-id="b498480a-a03d-afff-8227-912980ab2a0a" style="opacity:0" class="home-category-card red"><img
@@ -387,7 +387,7 @@
               srcset="images/kura.png 500w, images/kura.png 1200w"
               sizes="(max-width: 479px) 60vw, (max-width: 991px) 176px, 220px" alt="" class="home-category-image-2" />
             <div class="home-category-info-2">
-              <h3>Kerajinan Tangan</h3><a href="/catalog.html" class="button small white w-button">Shop Now</a>
+              <h3>Kerajinan Tangan</h3><a href="catalog.php" class="button small white w-button">Shop Now</a>
             </div>
           </div>
 
@@ -396,7 +396,7 @@
             srcset="images/Bakpia-logo.png 500w, images/Bakpia-logo.png 1200w"
             sizes="(max-width: 479px) 60vw, (max-width: 991px) 176px, 220px" alt="" class="home-category-image-3" />
           <div class="home-category-info-3">
-            <h3>Makanan Khas</h3><a href="/catalog.html" class="button small white w-button">Shop Now</a>
+            <h3>Makanan Khas</h3><a href="catalog.php" class="button small white w-button">Shop Now</a>
           </div>
         </div>
         
@@ -410,7 +410,7 @@
     <div class="section haze no-padding-top">
       <div class="wrapper">
         <div class="shop-header">
-          <h3 class="no-margin">Pakaian</h3><a href="/catalog.html" class="link arrow-link">Lihat lebih banyak</a>
+          <h3 class="no-margin">Pakaian</h3><a href="catalog.php" class="link arrow-link">Lihat lebih banyak</a>
           <div class="shop-header-line">
             <div class="shop-header-color"></div>
           </div>
@@ -520,7 +520,7 @@
     <div class="section haze no-padding-top">
       <div class="wrapper">
         <div class="shop-header">
-          <h3 class="no-margin">Kerajinan Tangan</h3><a href="/catalog.html" class="link arrow-link">Lihat lebih banyak</a>
+          <h3 class="no-margin">Kerajinan Tangan</h3><a href="catalog.php" class="link arrow-link">Lihat lebih banyak</a>
           <div class="shop-header-line">
             <div class="shop-header-color"></div>
           </div>
@@ -584,7 +584,7 @@
     <div class="section haze no-padding-top">
       <div class="wrapper">
         <div class="shop-header">
-          <h3 class="no-margin">Makanan Khas</h3><a href="/catalog.html" class="link arrow-link">lihat lebih banyak</a>
+          <h3 class="no-margin">Makanan Khas</h3><a href="catalog.php" class="link arrow-link">lihat lebih banyak</a>
           <div class="shop-header-line">
             <div class="shop-header-color"></div>
           </div>
@@ -763,8 +763,8 @@
             </a></div>
 
 
-          <div class="footer-nav"><a href="/" aria-current="page" class="footer-link w--current">Home</a><a
-              href="/catalog.html" class="footer-link">Catalog</a><a href="/delivery.html" class="footer-link">Delivery</a><a
+          <div class="footer-nav"><a href="index.php" aria-current="page" class="footer-link w--current">Home</a><a
+              href="catalog.php" class="footer-link">Catalog</a><a href="/delivery.html" class="footer-link">Delivery</a><a
               href="/about.html" class="footer-link">About</a><a href="/contacts.html" class="footer-link">Contacts</a></div>
               
           <div class="footer-social">

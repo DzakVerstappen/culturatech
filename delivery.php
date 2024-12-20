@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-page="5bb4b09dbfd9281bfcd8d51e" data-wf-site="5badda2935e11303a89a461e">
+<html data-wf-page="5bb5e4ff0c738f120348b8bf" data-wf-site="5badda2935e11303a89a461e">
 
 <head>
   <meta charset="utf-8" />
@@ -69,14 +69,14 @@
         </div>
       </div>
       <div class="nav-main">
-        <div class="wrapper nav-bar-wrapper"><a href="/" class="brand w-nav-brand">
+        <div class="wrapper nav-bar-wrapper"><a href="index.php" class="brand w-nav-brand">
             <div>Shopify</div>
           </a>
           <div class="navigation">
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="/catalog.html"
-                class="nav-link w-nav-link">Catalog</a><a href="/delivery.html" class="nav-link w-nav-link">Delivery</a><a
-                href="/about.html" class="nav-link w-nav-link">About</a><a href="/add_product.html" class="nav-link w-nav-link">Add Product</a><a href="/contacts.html" aria-current="page"
-                class="nav-link w-nav-link w--current">Contacts</a></nav>
+            <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
+                class="nav-link w-nav-link">Catalog</a><a href="delivery.php" aria-current="page"
+                class="nav-link w-nav-link w--current">Delivery</a><a href="about.php"
+                class="nav-link w-nav-link">About</a><a href="contacts.php" class="nav-link w-nav-link">Contacts</a></nav>
             <div class="menu-button w-nav-button">
               <div class="w-icon-nav-menu"></div>
             </div>
@@ -331,7 +331,7 @@
                             </a></div>
                           <div
                             data-wf-paypal-button="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;color&quot;:&quot;blue&quot;,&quot;shape&quot;:&quot;pill&quot;,&quot;label&quot;:&quot;paypal&quot;,&quot;tagline&quot;:false,&quot;note&quot;:false}"
-                            class="cart-pay-button"></div><a href="/checkout.html" value="Continue to Checkout"
+                            class="cart-pay-button"></div><a href="checkout.php" value="Continue to Checkout"
                             data-node-type="cart-checkout-button" class="w-commerce-commercecartcheckoutbutton button"
                             data-loading-text="Hang Tight...">Continue to Checkout</a>
                         </div>
@@ -360,56 +360,66 @@
     </div>
     <div class="section no-padding-vertical">
       <div class="wrapper side-paddings">
-        <div class="breadcrumbs"><a href="/" class="link-grey">Home</a><img src="images/arrow-right-mini-icon-1.svg"
+        <div class="breadcrumbs"><a href="index.php" class="link-grey">Home</a><img src="images/arrow-right-mini-icon-1.svg"
             alt="" class="breadcrumbs-arrow" />
-          <div>Contacts</div>
+          <div>Delivery</div>
         </div>
       </div>
     </div>
     <div class="section no-padding-top">
       <div class="wrapper side-paddings">
-        <div class="contacts">
-          <div class="map w-widget w-widget-map" data-widget-style="roadmap" data-widget-latlng=""
-            data-enable-scroll="true" role="" title="" data-enable-touch="true" data-widget-zoom="12"
-            data-widget-tooltip=""></div>
-          <div class="contact-form-wrapper">
-            <h4 class="contact-heading">Leave a Message</h4>
-            <div class="w-form">
-              <form id="email-form" name="email-form" data-name="Email Form" method="get"
-                data-wf-page-id="5bb4b09dbfd9281bfcd8d51e" data-wf-element-id="d96b2bf2-3a5d-0de0-24cd-680b60234d76">
-                <label for="Contact-Name" class="label">Full Name</label><input class="input w-input" maxlength="256"
-                  name="Contact-Name" data-name="Contact Name" placeholder="Enter your name" type="text"
-                  id="Contact-Name" /><label for="Contact-Email" class="label">Email Address</label><input
-                  class="input w-input" maxlength="256" name="Contact-Email" data-name="Contact Email"
-                  placeholder="Your contact email" type="email" id="Contact-Email" required="" /><label
-                  for="Contact-Message" class="label">Email Address</label><textarea id="Contact-Message"
-                  name="Contact-Message" placeholder="Message text..." maxlength="5000" data-name="Contact Message"
-                  required="" class="input text-area w-input"></textarea><input type="submit" data-wait="Please wait..."
-                  class="button w-button" value="Send Message" /></form>
-              <div class="w-form-done">
-                <div>Thank you! Your submission has been received!</div>
-              </div>
-              <div class="w-form-fail">
-                <div>Oops! Something went wrong while submitting the form.</div>
-              </div>
-            </div>
+        <div class="delivery">
+          <div class="delivery-info w-richtext">
+            <h2>Delivery Info</h2>
+            <p>A successful marketing plan relies heavily on the pulling-power of advertising copy. Writing
+              result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take action.
+              There is no magic formula to write perfect ad copy; it is based on a number of factors, including ad
+              placement, demographic, even the consumer’s mood when they see your ad.</p>
+            <h3>What’s a Rich Text element?</h3>
+            <p>The rich text element allows you to create and format headings, paragraphs, blockquotes, images, and
+              video all in one place instead of having to add and format them individually. Just double-click and easily
+              create content.</p>
+            <h4>Static and dynamic content editing</h4>
+            <p>A rich text element can be used with static or dynamic content. For static content, just drop it into any
+              page and begin editing. </p>
+            <ul role="list">
+              <li>Beautifully Designed</li>
+              <li>100% Responsive</li>
+              <li>CMS Content</li>
+              <li>Smooth Animations</li>
+            </ul>
+            <p>For dynamic content, add a rich text field to any collection and then connect a rich text element to that
+              field in the settings panel. Voila!</p>
+            <h4>How to customize formatting for each rich text</h4>
+            <p>Headings, paragraphs, blockquotes, figures, images, and figure captions can all be styled after a class
+              is added to the rich text element using the &quot;When inside of&quot; nested selector system.</p>
           </div>
-          <div class="contact-info">
-            <h4 class="contact-heading">Contact Info</h4>
-            <div>4293  Euclid Avenue, Los Angeles, CA 90012</div>
-            <div>+1 213 974-3898</div><a href="mailto:Your Email Here?subject=ToyStore"
-              class="link">Shopify@template.com</a>
-            <div class="contact-social">
-              <h5 class="contact-social-heading">Follow Us</h5><a href="https://elasticthemes.com" target="_blank"
-                class="contact-social-link twitter w-inline-block"><img src="images/twitter-icon-white.svg"
-                  alt="" /></a><a href="https://elasticthemes.com" target="_blank"
-                class="contact-social-link facebook w-inline-block"><img src="images/facebook-icon-white.svg"
-                  alt="" /></a><a href="https://elasticthemes.com" target="_blank"
-                class="contact-social-link insta w-inline-block"><img src="images/instagram-icon-white.svg"
-                  alt="" /></a><a href="https://elasticthemes.com" target="_blank"
-                class="contact-social-link pinterest w-inline-block"><img src="images/pinterest-icon-white.svg"
-                  alt="" /></a><a href="https://elasticthemes.com" target="_blank"
-                class="contact-social-link youtube w-inline-block"><img src="images/youtube-icon.svg" alt="" /></a>
+          <div class="question">
+            <h5 class="question-heading">Can&#x27;t Find the Answer to Your Question?</h5><a href="contacts.php"
+              class="button small w-button">Contact Us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section no-padding-top">
+      <div class="wrapper side-paddings">
+        <div data-w-id="e89551e9-b5ae-51a6-c418-02c90497790c" class="subscribe">
+          <div class="subscribe-info">
+            <div class="subscribe-icon"><img src="images/paperplane-icon-white.svg" alt="" /></div>
+            <h4>Subscribe to our newsletter<br />&amp; get <span class="text-green">10% discount!</span></h4>
+          </div>
+          <div class="subscribe-form-wrapper w-form">
+            <form id="wf-form-Subscribe-Form" name="wf-form-Subscribe-Form" data-name="Subscribe Form" method="get"
+              class="subscribe-form" data-wf-page-id="5bb5e4ff0c738f120348b8bf"
+              data-wf-element-id="e89551e9-b5ae-51a6-c418-02c904977917"><input class="input subscribe-input w-input"
+                maxlength="256" name="email-2" data-name="Email 2" placeholder="Enter your email address" type="email"
+                id="email-2" required="" /><input type="submit" data-wait="Please wait..." class="button w-button"
+                value="Subscribe" /></form>
+            <div class="form-success w-form-done">
+              <div>Thank you! Your submission has been received!</div>
+            </div>
+            <div class="form-error w-form-fail">
+              <div>Oops! Something went wrong while submitting the form.</div>
             </div>
           </div>
         </div>
@@ -435,40 +445,16 @@
           target="_blank" class="button w-button">See More Photos</a>
       </div>
     </div>
-    <div class="section no-padding-top">
-      <div class="wrapper side-paddings">
-        <div data-w-id="e89551e9-b5ae-51a6-c418-02c90497790c" class="subscribe">
-          <div class="subscribe-info">
-            <div class="subscribe-icon"><img src="images/paperplane-icon-white.svg" alt="" /></div>
-            <h4>Subscribe to our newsletter<br />&amp; get <span class="text-green">10% discount!</span></h4>
-          </div>
-          <div class="subscribe-form-wrapper w-form">
-            <form id="wf-form-Subscribe-Form" name="wf-form-Subscribe-Form" data-name="Subscribe Form" method="get"
-              class="subscribe-form" data-wf-page-id="5bb4b09dbfd9281bfcd8d51e"
-              data-wf-element-id="e89551e9-b5ae-51a6-c418-02c904977917"><input class="input subscribe-input w-input"
-                maxlength="256" name="email-2" data-name="Email 2" placeholder="Enter your email address" type="email"
-                id="email-2" required="" /><input type="submit" data-wait="Please wait..." class="button w-button"
-                value="Subscribe" /></form>
-            <div class="form-success w-form-done">
-              <div>Thank you! Your submission has been received!</div>
-            </div>
-            <div class="form-error w-form-fail">
-              <div>Oops! Something went wrong while submitting the form.</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
     <div class="section color no-padding-vertical">
       <div class="wrapper text-white">
         <div class="footer">
-          <div class="footer-left"><a href="/" class="footer-brand w-nav-brand">
+          <div class="footer-left"><a href="index.php" class="footer-brand w-nav-brand">
               <div>Shopify</div>
             </a></div>
-          <div class="footer-nav"><a href="/" class="footer-link">Home</a><a href="/catalog.html"
-              class="footer-link">Catalog</a><a href="/delivery.html" class="footer-link">Delivery</a><a href="/about.html"
-              class="footer-link">About</a><a href="/contacts.html" aria-current="page"
-              class="footer-link w--current">Contacts</a></div>
+          <div class="footer-nav"><a href="index.php" class="footer-link">Home</a><a href="catalog.php"
+              class="footer-link">Catalog</a><a href="delivery.php" aria-current="page"
+              class="footer-link w--current">Delivery</a><a href="about.php" class="footer-link">About</a><a
+              href="contacts.php" class="footer-link">Contacts</a></div>
           <div class="footer-social"><a href="https://elasticthemes.com" target="_blank"
               class="footer-social-link w-inline-block"><img src="images/twitter-icon-white.svg" alt="" /></a><a
               href="https://elasticthemes.com" target="_blank" class="footer-social-link w-inline-block"><img
