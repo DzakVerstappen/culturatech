@@ -399,19 +399,19 @@
                 </div>
                 <h6 class="product-card-heading">Batik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 30.00 USD</div>
+                  class="product-card-price">Rp. 250.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/happy-flower.html"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33727-9-wooden-toy-transparent-image-min-2.png" alt=""
+                    src="images/kerajinan1.webp" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33727-9-wooden-toy-transparent-image-min-p-500-1.png 500w, images/33727-9-wooden-toy-transparent-image-min-2.png 1200w" />
+                    srcset="images/kerajinan1.webp 500w, images/kerajinan1.webp 1200w" />
                 </div>
-                <h6 class="product-card-heading">Happy Flower</h6>
+                <h6 class="product-card-heading">Miniatur Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 38.00 USD</div>
+                  class="product-card-price">Rp. 80.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/batik perempuan.html"
                 class="product-card w-inline-block">
@@ -423,19 +423,19 @@
                 </div>
                 <h6 class="product-card-heading">Batik Perempuan</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 38.00 USD</div>
+                  class="product-card-price">Rp. 300.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/lift-machine.html"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33505-6-wooden-toy-clipart-min.png" alt=""
+                    src="images/kerajinan2.jpg" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33505-6-wooden-toy-clipart-min-p-500.png 500w, images/33505-6-wooden-toy-clipart-min.png 1200w" />
+                    srcset="images/kerajinan2.jpg 500w, images/kerajinan2.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Lift Machine</h6>
+                <h6 class="product-card-heading">Topeng</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 24.00 USD</div>
+                  class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/dress batik.html"
                 class="product-card w-inline-block">
@@ -447,31 +447,31 @@
                 </div>
                 <h6 class="product-card-heading">Dress Batik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 24.00 USD</div>
+                  class="product-card-price">Rp. 400.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/wooden-camera.html"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33631-9-wooden-toy-photo-min.png" alt=""
+                    src="images/kerajinan3.jpg" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33631-9-wooden-toy-photo-min-p-500.png 500w, images/33631-9-wooden-toy-photo-min.png 1200w" />
+                    srcset="images/kerajinan3.jpg 500w, images/kerajinan3.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Wooden Camera</h6>
+                <h6 class="product-card-heading">Patung Rama Shinta</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 32.00 USD</div>
+                  class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/little-rabbit.html"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33504-4-wooden-toy-transparent-min.png" alt=""
+                    src="images/kerajinan4.jpg" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33504-4-wooden-toy-transparent-min-p-800.png 800w, images/33504-4-wooden-toy-transparent-min-p-1080.png 1080w, images/33504-4-wooden-toy-transparent-min.png 1200w" />
+                    srcset="images/kerajinan4.jpg 800w, images/kerajinan4.jpg 1080w, images/kerajinan4.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Little Rabbit</h6>
+                <h6 class="product-card-heading">Asbak Kayu</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 16.00 USD</div>
+                  class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/rok batik.html"
                 class="product-card w-inline-block">
@@ -483,7 +483,7 @@
                 </div>
                 <h6 class="product-card-heading">Rok Batik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 27.00 USD</div>
+                  class="product-card-price">Rp. 315.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/batik lurik.html"
                 class="product-card w-inline-block">
@@ -495,19 +495,19 @@
                 </div>
                 <h6 class="product-card-heading">Batik Lurik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 19.00 USD</div>
+                  class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/rainbow-truck.html"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33649-6-toy-transparent-image-min.png" alt=""
+                    src="images/makanan1.jpg" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33649-6-toy-transparent-image-min-p-500.png 500w, images/33649-6-toy-transparent-image-min.png 1200w" />
+                    srcset="images/makanan1.jpg 500w, images/makanan1.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Rainbow Truck</h6>
+                <h6 class="product-card-heading">Pie Jogja</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 28.00 USD</div>
+                  class="product-card-price">Rp. 45.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya jogja.html"
                 class="product-card w-inline-block">
@@ -519,31 +519,31 @@
                 </div>
                 <h6 class="product-card-heading">Kebaya Jogja</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 28.00 USD</div>
+                  class="product-card-price">Rp. 230.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/happy-dog.html"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33388-1-wooden-toy-photos-min.png" alt=""
+                    src="images/makanan2.jpg" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33388-1-wooden-toy-photos-min-p-500.png 500w, images/33388-1-wooden-toy-photos-min.png 1200w" />
+                    srcset="images/makanan2.jpg 500w, images/makanan2.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Happy Dog</h6>
+                <h6 class="product-card-heading">Bakpia 25</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 30.00 USD</div>
+                  class="product-card-price">Rp. 35.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/caterpillar.html"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33371-3-wooden-toy-min.png" alt=""
+                    src="images/makanan3.jpg" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33371-3-wooden-toy-min-p-500.png 500w, images/33371-3-wooden-toy-min.png 1200w" />
+                    srcset="images/makanan3.jpg 500w, images/makanan3.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Caterpillar</h6>
+                <h6 class="product-card-heading">Bakpia Kukus</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 18.00 USD</div>
+                  class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya kutu.html"
                 class="product-card w-inline-block">
@@ -555,19 +555,19 @@
                 </div>
                 <h6 class="product-card-heading">Kebaya Kutu Baru</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 45.00 USD</div>
+                  class="product-card-price">Rp. 300.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/wooden-tractor.html"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/33476-9-wooden-toy-hd-min.png" alt=""
+                    src="images/makanan4.jpg" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/33476-9-wooden-toy-hd-min-p-800.png 800w, images/33476-9-wooden-toy-hd-min.png 1200w" />
+                    srcset="images/makanan4.jpg 800w, images/makanan4.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Wooden Tractor</h6>
+                <h6 class="product-card-heading">Wingko Babat</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 22.00 USD</div>
+                  class="product-card-price">Rp. 35.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="/product/kebaya surjan.html"
                 class="product-card w-inline-block">
@@ -577,9 +577,9 @@
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
                     srcset="images/kebaya3.jpg 500w, images/kebaya3.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Kebaya Surjan</h6>
+                <h6 class="product-card-heading">Lurik Perempuan</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 36.00 USD</div>
+                  class="product-card-price">Rp. 350.000 IDR</div>
               </a></div>
           </div>
         </div>
