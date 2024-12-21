@@ -503,9 +503,9 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/kerajinan1.webp"
+                    src="../images/kerajinan1.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/kerajinan1.webp 500w, ../images/kerajinan1.webp 1200w" />
+                    srcset="../images/kerajinan1.png 500w, ../images/kerajinan1.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
@@ -515,9 +515,9 @@
               class="product-card-wrapper w-dyn-item"><a href="product/miniatur-becak.php" class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33903-2-plush-toy-transparent-image-min-2.png"
+                    src="../images/miniatur3.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33903-2-plush-toy-transparent-image-min-p-500-1.png 500w, ../images/33903-2-plush-toy-transparent-image-min-2.png 1200w" />
+                    srcset="../images/miniatur3.jpg 500w, ../images/miniatur3.jpg 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Becak</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
@@ -528,13 +528,13 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33878-5-plush-toy-transparent-min.png"
+                    src="../images/kerajinan6.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33878-5-plush-toy-transparent-min-p-500.png 500w, ../images/33878-5-plush-toy-transparent-min.png 1200w" />
+                    srcset="../images/kerajinan6.png 500w, ../images/kerajinan6.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 100.000 IDR</div>
+                  class="product-card-price">Rp. 20.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
               class="product-card-wrapper w-dyn-item"><a href="product/tas.php"

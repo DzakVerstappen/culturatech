@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html data-wf-page="5baddb6a35e11306e19a4806" data-wf-site="5badda2935e11303a89a461e"
-  data-wf-collection="5baddb6a35e1130af59a4804" data-wf-item-slug="grey-elephant">
+  data-wf-collection="5baddb6a35e1130af59a4804" data-wf-item-slug="caterpillar">
 
 <head>
   <meta charset="utf-8" />
-  <title>Shopify</title>
+  <title>Spotify</title>
   <meta content="width=device-width, initial-scale=1" name="viewport" />
   <meta content="Webflow" name="generator" />
   <link href="../css/webflow-style.css" rel="stylesheet" type="text/css" />
@@ -70,7 +70,7 @@
       </div>
       <div class="nav-main">
         <div class="wrapper nav-bar-wrapper"><a href="index.php" class="brand w-nav-brand">
-            <div>Shopify</div>
+            <div>Spotify</div>
           </a>
           <div class="navigation">
             <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
@@ -363,7 +363,7 @@
         <div class="breadcrumbs"><a href="index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
             alt="" class="breadcrumbs-arrow" /><a href="catalog.php" class="link-grey">Catalog</a><img
             src="../images/arrow-right-mini-icon-1.svg" alt="" class="breadcrumbs-arrow" />
-          <div>Kebaya Kutu Baru</div>
+          <div>Jogja Scrummy</div>
         </div>
       </div>
     </div>
@@ -371,15 +371,15 @@
       <div class="wrapper side-paddings">
         <div class="product">
           <div class="product-info">
-            <h1>Kebaya Kutu Baru</h1>
+            <h1>Jogja Scrummy</h1>
             <p class="text-grey">A successful marketing plan relies heavily on the pulling-power of advertising copy.
               Writing result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take
               action. There is no magic formula to write perfect ad copy. It is based on a number of factors.</p>
             <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-              class="product-price">Rp. 300.000 IDR</div>
+              class="product-price">Rp. 60.000 IDR</div>
             <div class="full-width">
-              <form data-node-type="commerce-add-to-cart-form" data-commerce-sku-id="5bae0da6939555f17fb8a95b"
-                data-loading-text="Adding to cart..." data-commerce-product-id="5bae0da62ca03549b20d4dbb"
+              <form data-node-type="commerce-add-to-cart-form" data-commerce-sku-id="5baf50bf7a16ad5986d9fcf0"
+                data-loading-text="Adding to cart..." data-commerce-product-id="5baf50bfc8d851364dc4540f"
                 class="w-commerce-commerceaddtocartform add-to-cart"><input type="number" pattern="^[0-9]+$"
                   inputMode="numeric" id="quantity-652131f9f904302b3296412795400fe8"
                   name="commerce-add-to-cart-quantity-input" min="1"
@@ -409,16 +409,16 @@
           </div>
           <div class="product-image-wrapper"><img alt=""
               data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-              src="../images/kebaya2.jpg"
+              src="../images/makanan6.png"
               sizes="(max-width: 479px) 83vw, (max-width: 767px) 75vw, (max-width: 991px) 76vw, 32vw"
-              srcset="../images/kebaya2.jpg 500w, ../images/kebaya2.jpg 1200w"
+              srcset="../images/makanan6.png 500w, ../images/makanan6.png 1200w"
               class="full-width" /></div>
           <div class="product-details-wrapper">
             <div class="shop-header">
               <h5 class="no-margin">Product Details</h5>
               <div class="sku">
                 <div>SKU: </div>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_sku_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">35015
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_sku_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">35008
                 </div>
               </div>
               <div class="shop-header-line">
@@ -454,7 +454,7 @@
               <div class="product-table-cell">
                 <div>Width</div>
                 <div class="product-table-info">
-                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_width_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">30.5
+                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_width_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">24
                   </div>
                   <div>  in</div>
                 </div>
@@ -462,7 +462,7 @@
               <div class="product-table-cell">
                 <div>Height</div>
                 <div class="product-table-info">
-                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_height_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">28.5
+                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_height_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">5
                   </div>
                   <div>  in</div>
                 </div>
@@ -470,7 +470,7 @@
               <div class="product-table-cell">
                 <div>Length</div>
                 <div class="product-table-info">
-                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_length_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">20
+                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_length_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">3
                   </div>
                   <div>  in</div>
                 </div>
@@ -478,7 +478,7 @@
               <div class="product-table-cell no-border-bottom">
                 <div>Weight</div>
                 <div class="product-table-info">
-                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_weight_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">19
+                  <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_weight_%22%2C%22to%22%3A%22innerHTML%22%7D%5D">11
                   </div>
                   <div>  oz</div>
                 </div>
@@ -499,80 +499,80 @@
         <div class="full-width w-dyn-list">
           <div role="list" class="products w-dyn-items">
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="product/dress batik.php" class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img alt=""
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/batik3.jpg"
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/batik3.jpg 500w, ../images/batik3.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Dress Batik</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 400.000 IDR</div>
-              </a></div>
-            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="product/batik perempuan.php"
+              class="product-card-wrapper w-dyn-item"><a href="product/mochi.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/batik2.jpg"
+                    src="../images/makanan8.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/batik2.jpg 800w, ../images/batik2.jpg 1080w, ../images/batik2.jpg 1200w" />
+                    srcset="../images/makanan8.jpg 500w, ../images/makanan8.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Batik Perempuan</h6>
+                <h6 class="product-card-heading">Mochi</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 300.000 IDR</div>
+                  class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="product/rok batik.php"
+              class="product-card-wrapper w-dyn-item"><a href="product/bakpia-kukus.php" class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/makanan3.jpg"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/makanan3.jpg 500w, ../images/makanan3.jpg 1200w" />
+                </div>
+                <h6 class="product-card-heading">Bakpia Kukus</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">Rp. 50.000 IDR</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/wingko.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/batik4.jpg"
+                    src="../images/makanan4.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/batik4.jpg 500w, ../images/batik4.jpg 1200w" />
+                    srcset="../images/makanan4.jpg 500w, ../images/makanan4.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Rok Batik</h6>
+                <h6 class="product-card-heading">Wingko Babat</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 315.000 IDR</div>
+                  class="product-card-price">Rp. 20.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="product/kebaya surjan.php"
+              class="product-card-wrapper w-dyn-item"><a href="product/bakpia-25.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/kebaya3.jpg"
+                    src="../images/makanan2.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/kebaya3.jpg 500w, ../images/kebaya3.jpg 1200w" />
+                    srcset="../images/makanan2.jpg 500w, ../images/makanan2.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Lurik Perempuan</h6>
+                <h6 class="product-card-heading">Bakpia 25</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 350.000 IDR</div>
+                  class="product-card-price">Rp. 35.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="product/batik lurik.php"
+              class="product-card-wrapper w-dyn-item"><a href="product/pie-jogja.php" class="product-card w-inline-block">
+                <div class="product-card-image-wrapper"><img alt=""
+                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
+                    src="../images/makanan1.jpg"
+                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
+                    srcset="../images/makanan1.jpg 500w, ../images/makanan1.jpg 1200w" />
+                </div>
+                <h6 class="product-card-heading">Pie Jogja</h6>
+                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
+                  class="product-card-price">Rp. 45.000 IDR</div>
+              </a></div>
+            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
+              class="product-card-wrapper w-dyn-item"><a href="product/yangko.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/lurik1.jpg"
+                    src="../images/makanan5.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/lurik1.jpg 500w, ../images/lurik1.jpg 1200w" />
+                    srcset="../images/makanan5.png 500w, ../images/makanan5.png 1200w" />
                 </div>
-                <h6 class="product-card-heading">Batik Lurik</h6>
+                <h6 class="product-card-heading">Yangko</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 200.000 IDR</div>
-              </a></div>
-            <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="product/batik cowo.php" class="product-card w-inline-block">
-                <div class="product-card-image-wrapper"><img alt=""
-                    data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/batik 1.jpg"
-                    sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/batik 1.jpg 500w, ../images/batik 1.jpg 1200w" />
-                </div>
-                <h6 class="product-card-heading">Batik</h6>
-                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 250.000 IDR</div>
+                  class="product-card-price">Rp. 45.000 IDR</div>
               </a></div>
           </div>
         </div>
@@ -606,7 +606,7 @@
       <div class="wrapper text-white">
         <div class="footer">
           <div class="footer-left"><a href="index.php" class="footer-brand w-nav-brand">
-              <div>Shopify</div>
+              <div>ToyStore</div>
             </a></div>
           <div class="footer-nav"><a href="index.php" class="footer-link">Home</a><a href="catalog.php"
               class="footer-link">Catalog</a><a href="delivery.php" class="footer-link">Delivery</a><a href="about.php"

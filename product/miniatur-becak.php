@@ -409,9 +409,9 @@
           </div>
           <div class="product-image-wrapper"><img alt=""
               data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-              src="../images/33371-3-wooden-toy-min.png"
+              src="../images/miniatur3.jpg"
               sizes="(max-width: 479px) 83vw, (max-width: 767px) 75vw, (max-width: 991px) 76vw, 32vw"
-              srcset="../images/33371-3-wooden-toy-min-p-500.png 500w, ../images/33371-3-wooden-toy-min.png 1200w"
+              srcset="../images/miniatur3.jpg 500w, ../images/miniatur3.jpg 1200w"
               class="full-width" /></div>
           <div class="product-details-wrapper">
             <div class="shop-header">
@@ -503,13 +503,13 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33910-6-toy-clipart-min.png"
+                    src="../images/kerajinan6.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33910-6-toy-clipart-min-p-500.png 500w, ../images/33910-6-toy-clipart-min.png 1200w" />
+                    srcset="../images/kerajinan6.png 500w, ../images/kerajinan6.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 100.000 IDR</div>
+                  class="product-card-price">Rp. 20.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
               class="product-card-wrapper w-dyn-item"><a href="product/tas.php" class="product-card w-inline-block">
@@ -524,26 +524,26 @@
                   class="product-card-price">Rp. 120.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="product/miniatur-becak.php"
+              class="product-card-wrapper w-dyn-item"><a href="product/asbak.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/cute-plush-toy-stuffed-animal-47335-min.png"
+                    src="../images/kerajinan4.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/cute-plush-toy-stuffed-animal-47335-min-p-500.png 500w, ../images/cute-plush-toy-stuffed-animal-47335-min.png 1200w" />
+                    srcset="../images/kerajinan4.jpg 500w, ../images/kerajinan4.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Miniatur Becak</h6>
+                <h6 class="product-card-heading">Asbak Kayu</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 80.000 IDR</div>
+                  class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
               class="product-card-wrapper w-dyn-item"><a href="product/miniatur-wayang.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/kerajinan1.webp"
+                    src="../images/kerajinan1.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/kerajinan1.webp 500w, ../images/kerajinan1.webp 1200w" />
+                    srcset="../images/kerajinan1.png 500w, ../images/kerajinan1.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"

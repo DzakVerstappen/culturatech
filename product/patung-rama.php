@@ -503,9 +503,9 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/kerajinan1.webp"
+                    src="../images/kerajinan1.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/kerajinan1.webp 500w, ../images/kerajinan1.webp 1200w" />
+                    srcset="../images/kerajinan1.png 500w, ../images/kerajinan1.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
@@ -542,9 +542,9 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33610-4-plush-toy-hd-min.png"
+                    src="../images/miniatur3.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33610-4-plush-toy-hd-min-p-500.png 500w, ../images/33610-4-plush-toy-hd-min.png 1200w" />
+                    srcset="../images/miniatur3.jpg 500w, ../images/miniatur3.jpg 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Becak</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"

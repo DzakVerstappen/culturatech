@@ -376,7 +376,7 @@
               Writing result-oriented ad copy is difficult, as it must appeal to, entice, and convince consumers to take
               action. There is no magic formula to write perfect ad copy. It is based on a number of factors.</p>
             <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-              class="product-price">Rp. 200.000 IDR</div>
+              class="product-price">Rp. 120.000 IDR</div>
             <div class="full-width">
               <form data-node-type="commerce-add-to-cart-form" data-commerce-sku-id="5baf518dc8d85166eec45441"
                 data-loading-text="Adding to cart..." data-commerce-product-id="5baf518d1270adb3a9e12d78"
@@ -503,9 +503,9 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/kerajinan1.webp"
+                    src="../images/kerajinan1.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/kerajinan1.webp 500w, ../images/kerajinan1.webp 1200w" />
+                    srcset="../images/kerajinan1.png 500w, ../images/kerajinan1.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
@@ -541,26 +541,26 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33371-3-wooden-toy-min.png"
+                    src="../images/miniatur3.jpg"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33371-3-wooden-toy-min-p-500.png 500w, ../images/33371-3-wooden-toy-min.png 1200w" />
+                    srcset="../images/miniatur3.jpg 500w, ../images/miniatur3.jpg 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Becak</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 80.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
-              class="product-card-wrapper w-dyn-item"><a href="product/little-rabbit.php"
+              class="product-card-wrapper w-dyn-item"><a href="product/wayang.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33504-4-wooden-toy-transparent-min.png"
+                    src="../images/kerajinan6.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33504-4-wooden-toy-transparent-min-p-800.png 800w, ../images/33504-4-wooden-toy-transparent-min-p-1080.png 1080w, ../images/33504-4-wooden-toy-transparent-min.png 1200w" />
+                    srcset="../images/kerajinan6.png 800w, ../images/kerajinan6.png 1080w, ../images/kerajinan6.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">Rp. 100.000 IDR</div>
+                  class="product-card-price">Rp. 20.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
               class="product-card-wrapper w-dyn-item"><a href="product/vas.php"

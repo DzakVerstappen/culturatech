@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Shopify — Webflow Ecommerce HTML website template</title>
+  <title>Shopify</title>
   <meta content="width=device-width, initial-scale=1" name="viewport" />
   <meta content="Webflow" name="generator" />
   <link href="../css/webflow-style.css" rel="stylesheet" type="text/css" />

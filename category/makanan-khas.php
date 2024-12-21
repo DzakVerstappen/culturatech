@@ -55,7 +55,7 @@
         <div class="wrapper nav-top-wrapper">
           <div class="nav-top-info">
             <div class="nav-top-text">Call Us: +1 213 974-5898</div>
-            <div class="w-hidden-tiny">Email: <a href="#" class="link-white">toystore@template.com</a></div>
+            <div class="w-hidden-tiny">Email: <a href="#" class="link-white">Shopify@gmail.com</a></div>
           </div>
           <div class="nav-top-social"><a href="https://elasticthemes.com" target="_blank"
               class="social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
@@ -389,101 +389,101 @@
         </div>
         <div class="full-width w-dyn-list">
           <div role="list" class="products w-dyn-items">
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/teddy-bear.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/pie-jogja.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33903-2-plush-toy-transparent-image-min-2.png"
+                    src="../images/makanan1.jpg"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33903-2-plush-toy-transparent-image-min-p-500-1.png 500w, ../images/33903-2-plush-toy-transparent-image-min-2.png 1200w" />
+                    srcset="../images/makanan1.jpg 500w, ../images/makanan1.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Teddy Bear</h6>
+                <h6 class="product-card-heading">Pie Jogja</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 30.00 USD</div>
+                  class="product-card-price">Rp. 45.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/mega-plush-toy.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/bakpia-25.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33837-2-plush-toy-transparent-background-min.png"
+                    src="../images/makanan2.jpg"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33837-2-plush-toy-transparent-background-min-p-500.png 500w, ../images/33837-2-plush-toy-transparent-background-min.png 1200w" />
+                    srcset="../images/makanan2.jpg 500w, ../images/makanan2.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Mega Plush Toy</h6>
+                <h6 class="product-card-heading">Bakpia 25</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 38.00 USD</div>
+                  class="product-card-price">Rp. 35.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/cute-dog.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/bakpia-kukus.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33908-7-plush-toy-file-min.png"
+                    src="../images/makanan3.jpg"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33908-7-plush-toy-file-min-p-500.png 500w, ../images/33908-7-plush-toy-file-min.png 1200w" />
+                    srcset="../images/makanan3.jpg 500w, ../images/makanan3.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Cute Dog</h6>
+                <h6 class="product-card-heading">Bakpia Kukus</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 24.00 USD</div>
+                  class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/little-friend.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/wingko.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33878-5-plush-toy-transparent-min.png"
+                    src="../images/makanan4.jpg"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33878-5-plush-toy-transparent-min-p-500.png 500w, ../images/33878-5-plush-toy-transparent-min.png 1200w" />
+                    srcset="../images/makanan4.jpg 500w, ../images/makanan4.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Little Friend</h6>
+                <h6 class="product-card-heading">Wingko Babat</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 27.00 USD</div>
+                  class="product-card-price">Rp. 20.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/christmas-deer.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/yangko.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33610-4-plush-toy-hd-min.png"
+                    src="../images/makanan5.png"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33610-4-plush-toy-hd-min-p-500.png 500w, ../images/33610-4-plush-toy-hd-min.png 1200w" />
+                    srcset="../images/makanan5.png 500w, ../images/makanan5.png 1200w" />
                 </div>
-                <h6 class="product-card-heading">Christmas Deer</h6>
+                <h6 class="product-card-heading">Yangko</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 19.00 USD</div>
+                  class="product-card-price">Rp. 45.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/pluto-yellow-dog.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/mochi.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33568-4-toy-image-min.png"
+                    src="../images/makanan8.jpg"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33568-4-toy-image-min-p-500.png 500w, ../images/33568-4-toy-image-min.png 1200w" />
+                    srcset="../images/makanan8.jpg 500w, ../images/makanan8.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Pluto Yellow Dog</h6>
+                <h6 class="product-card-heading">Mochi</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 28.00 USD</div>
+                  class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/grey-elephant.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/coklat.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/cute-plush-toy-stuffed-animal-47335-min.png"
+                    src="../images/makanan7.png"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/cute-plush-toy-stuffed-animal-47335-min-p-500.png 500w, ../images/cute-plush-toy-stuffed-animal-47335-min.png 1200w" />
+                    srcset="../images/makanan7.png 500w, ../images/makanan7.png 1200w" />
                 </div>
-                <h6 class="product-card-heading">Grey Elephant</h6>
+                <h6 class="product-card-heading">Coklat Monggo</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 45.00 USD</div>
+                  class="product-card-price">Rp. 40.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/funny-clown.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/scrummy.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/33910-6-toy-clipart-min.png"
+                    src="../images/makanan6.png"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/33910-6-toy-clipart-min-p-500.png 500w, ../images/33910-6-toy-clipart-min.png 1200w" />
+                    srcset="../images/makanan6.png 500w, ../images/makanan6.png 1200w" />
                 </div>
-                <h6 class="product-card-heading">Funny Clown</h6>
+                <h6 class="product-card-heading">Jogja Scrummy</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 36.00 USD</div>
+                  class="product-card-price">Rp. 60.000 IDR</div>
               </a></div>
           </div>
         </div>

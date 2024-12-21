@@ -577,7 +577,7 @@
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
                     srcset="images/kebaya3.jpg 500w, images/kebaya3.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Kebaya Surjan</h6>
+                <h6 class="product-card-heading">Lurik Perempuan</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 350.000 IDR</div>
               </a></div>

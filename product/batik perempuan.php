@@ -521,7 +521,7 @@
                 </div>
                 <h6 class="product-card-heading">Batik Lurik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 19.00 USD</div>
+                  class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
             <div data-w-id="df75c36d-8d89-3a15-6c0d-6078372525bd" style="opacity:0" role="listitem"
               class="product-card-wrapper w-dyn-item"><a href="product/rok batik.php"

@@ -370,7 +370,7 @@
     <div class="section">
       <div class="wrapper">
         <div class="shop-header">
-          <h3 class="no-margin w-hidden-small w-hidden-tiny">Kerajian Tangan</h3>
+          <h3 class="no-margin w-hidden-small w-hidden-tiny">Pakaian</h3>
           <div class="shop-categories-wrapper"><a href="catalog.php" class="shop-category-link">All Product</a>
             <div class="w-dyn-list">
               <div role="list" class="shop-categories w-dyn-items">
@@ -399,7 +399,7 @@
                 </div>
                 <h6 class="product-card-heading">Batik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 30.00 USD</div>
+                  class="product-card-price">Rp. 250.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/batik perempuan.php"
                 class="product-card w-inline-block">
@@ -411,7 +411,7 @@
                 </div>
                 <h6 class="product-card-heading">Batik Perempuan</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 38.00 USD</div>
+                  class="product-card-price">Rp. 300.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/dress batik.php"
                 class="product-card w-inline-block">
@@ -423,7 +423,7 @@
                 </div>
                 <h6 class="product-card-heading">Dress Batik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 24.00 USD</div>
+                  class="product-card-price">Rp. 400.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/rok batik.php"
                 class="product-card w-inline-block">
@@ -435,7 +435,7 @@
                 </div>
                 <h6 class="product-card-heading">Rok Batik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 27.00 USD</div>
+                  class="product-card-price">Rp. 315.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/batik lurik.php"
                 class="product-card w-inline-block">
@@ -447,7 +447,7 @@
                 </div>
                 <h6 class="product-card-heading">Batik Lurik</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 19.00 USD</div>
+                  class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/kebaya jogja.php"
                 class="product-card w-inline-block">
@@ -459,7 +459,7 @@
                 </div>
                 <h6 class="product-card-heading">Kebaya Jogja</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 28.00 USD</div>
+                  class="product-card-price">Rp. 230.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/kebaya kutu.php"
                 class="product-card w-inline-block">
@@ -471,7 +471,7 @@
                 </div>
                 <h6 class="product-card-heading">Kebaya Kutu Baru</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 45.00 USD</div>
+                  class="product-card-price">Rp. 300.000 IDR</div>
               </a></div>
             <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/kebaya surjan.php"
                 class="product-card w-inline-block">
@@ -481,9 +481,9 @@
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
                     srcset="../images/kebaya3.jpg 500w, ../images/kebaya3.jpg 1200w" />
                 </div>
-                <h6 class="product-card-heading">Kebaya Surjan</h6>
+                <h6 class="product-card-heading">Lurik Perempuan</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                  class="product-card-price">$ 36.00 USD</div>
+                  class="product-card-price">Rp. 350.000 IDR</div>
               </a></div>
           </div>
         </div>
