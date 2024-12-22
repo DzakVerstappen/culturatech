@@ -491,7 +491,7 @@
     <div class="section">
       <div class="wrapper">
         <div class="shop-header">
-          <h3>Related Products</h3><a href="../catalog.php" class="link arrow-link">See All</a>
+          <h3>Related Products</h3><a href="../category/makanan-khas.php" class="link arrow-link">See All</a>
           <div class="shop-header-line">
             <div class="shop-header-color"></div>
           </div>

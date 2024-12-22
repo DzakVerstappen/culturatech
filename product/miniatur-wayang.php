@@ -490,7 +490,7 @@
     <div class="section">
       <div class="wrapper">
         <div class="shop-header">
-          <h3>Related Products</h3><a href="../category/kerajinan-tangan.phpp" class="link arrow-link">See All Toys</a>
+          <h3>Related Products</h3><a href="../category/kerajinan-tangan.php" class="link arrow-link">See All Toys</a>
           <div class="shop-header-line">
             <div class="shop-header-color"></div>
           </div>
