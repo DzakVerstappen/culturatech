@@ -69,13 +69,13 @@
         </div>
       </div>
       <div class="nav-main">
-        <div class="wrapper nav-bar-wrapper"><a href="index.php" class="brand w-nav-brand">
+        <div class="wrapper nav-bar-wrapper"><a href="../index.php" class="brand w-nav-brand">
             <div>Shopify</div>
           </a>
           <div class="navigation">
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
-                class="nav-link w-nav-link">Catalog</a><a href="delivery.php" class="nav-link w-nav-link">Delivery</a><a
-                href="about.php" class="nav-link w-nav-link">About</a><a href="contacts.php"
+            <nav role="navigation" class="nav-menu w-nav-menu"><a href="../catalog.php"
+                class="nav-link w-nav-link">Catalog</a><a href="../delivery.php" class="nav-link w-nav-link">Delivery</a><a
+                href="../about.php" class="nav-link w-nav-link">About</a><a href="../contacts.php"
                 class="nav-link w-nav-link">Contacts</a></nav>
             <div class="menu-button w-nav-button">
               <div class="w-icon-nav-menu"></div>
@@ -360,8 +360,8 @@
     </div>
     <div class="section no-padding-vertical">
       <div class="wrapper side-paddings">
-        <div class="breadcrumbs"><a href="index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
-            alt="" class="breadcrumbs-arrow" /><a href="catalog.php" class="link-grey">Catalog</a><img
+        <div class="breadcrumbs"><a href="../index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
+            alt="" class="breadcrumbs-arrow" /><a href="../catalog.php" class="link-grey">Catalog</a><img
             src="../images/arrow-right-mini-icon-1.svg" alt="" class="breadcrumbs-arrow" />
           <div>Kerajinan Tangan</div>
         </div>
@@ -371,14 +371,14 @@
       <div class="wrapper">
         <div class="shop-header">
           <h3 class="no-margin w-hidden-small w-hidden-tiny">Kerajinan Tangan</h3>
-          <div class="shop-categories-wrapper"><a href="catalog.php" class="shop-category-link">All Product</a>
+          <div class="shop-categories-wrapper"><a href="../catalog.php" class="shop-category-link">All Product</a>
             <div class="w-dyn-list">
               <div role="list" class="shop-categories w-dyn-items">
-                <div role="listitem" class="w-dyn-item"><a href="category/kerajinan-tangan.php" aria-current="page"
+                <div role="listitem" class="w-dyn-item"><a href="kerajinan-tangan.php" aria-current="page"
                     class="shop-category-link w--current">Kerajinan Tangan</a></div>
-                <div role="listitem" class="w-dyn-item"><a href="category/pakaian.php"
+                <div role="listitem" class="w-dyn-item"><a href="pakaian.php"
                     class="shop-category-link">Pakaian</a></div>
-                <div role="listitem" class="w-dyn-item"><a href="category/makanan-khas.php"
+                <div role="listitem" class="w-dyn-item"><a href="makanan-khas.php"
                     class="shop-category-link">Makanan Khas</a></div>
               </div>
             </div>
@@ -389,7 +389,7 @@
         </div>
         <div class="full-width w-dyn-list">
           <div role="list" class="products w-dyn-items">
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/miniatur-wayang.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="../product/miniatur-wayang.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -401,7 +401,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 80.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/topeng.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="../product/topeng.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -413,7 +413,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/patung-rama.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="../product/patung-rama.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -425,7 +425,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/asbak.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="../product/asbak.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -437,7 +437,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 50.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/tas.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="../product/tas.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -449,7 +449,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 120.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/miniatur-becak.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="../product/miniatur-becak.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -461,7 +461,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 80.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/vas.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="../product/vas.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -473,7 +473,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 30.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/wayang.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="../product/wayang.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -537,12 +537,12 @@
     <div class="section color no-padding-vertical">
       <div class="wrapper text-white">
         <div class="footer">
-          <div class="footer-left"><a href="index.php" class="footer-brand w-nav-brand">
+          <div class="footer-left"><a href="../index.php" class="footer-brand w-nav-brand">
               <div>Shopify</div>
             </a></div>
-          <div class="footer-nav"><a href="index.php" class="footer-link">Home</a><a href="catalog.php"
-              class="footer-link">Catalog</a><a href="delivery.php" class="footer-link">Delivery</a><a href="about.php"
-              class="footer-link">About</a><a href="contacts.php" class="footer-link">Contacts</a></div>
+          <div class="footer-nav"><a href="../index.php" class="footer-link">Home</a><a href="../catalog.php"
+              class="footer-link">Catalog</a><a href="../delivery.php" class="footer-link">Delivery</a><a href="../about.php"
+              class="footer-link">About</a><a href="../contacts.php" class="footer-link">Contacts</a></div>
           <div class="footer-social"><a href="https://elasticthemes.com" target="_blank"
               class="footer-social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
               href="https://elasticthemes.com" target="_blank" class="footer-social-link w-inline-block"><img

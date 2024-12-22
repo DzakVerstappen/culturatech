@@ -69,13 +69,13 @@
         </div>
       </div>
       <div class="nav-main">
-        <div class="wrapper nav-bar-wrapper"><a href="index.php" class="brand w-nav-brand">
+        <div class="wrapper nav-bar-wrapper"><a href="../index.php" class="brand w-nav-brand">
             <div>Spotify</div>
           </a>
           <div class="navigation">
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
-                class="nav-link w-nav-link">Catalog</a><a href="delivery.php" class="nav-link w-nav-link">Delivery</a><a
-                href="about.php" class="nav-link w-nav-link">About</a><a href="contacts.php"
+            <nav role="navigation" class="nav-menu w-nav-menu"><a href="../catalog.php"
+                class="nav-link w-nav-link">Catalog</a><a href="../delivery.php" class="nav-link w-nav-link">Delivery</a><a
+                href="../about.php" class="nav-link w-nav-link">About</a><a href="../contacts.php"
                 class="nav-link w-nav-link">Contacts</a></nav>
             <div class="menu-button w-nav-button">
               <div class="w-icon-nav-menu"></div>
@@ -360,8 +360,8 @@
     </div>
     <div class="section no-padding-vertical">
       <div class="wrapper side-paddings">
-        <div class="breadcrumbs"><a href="index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
-            alt="" class="breadcrumbs-arrow" /><a href="catalog.php" class="link-grey">Catalog</a><img
+        <div class="breadcrumbs"><a href="../index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
+            alt="" class="breadcrumbs-arrow" /><a href="../catalog.php" class="link-grey">Catalog</a><img
             src="../images/arrow-right-mini-icon-1.svg" alt="" class="breadcrumbs-arrow" />
           <div>Topeng</div>
         </div>
@@ -491,7 +491,7 @@
     <div class="section">
       <div class="wrapper">
         <div class="shop-header">
-          <h3>Related Products</h3><a href="catalog.php" class="link arrow-link">See All</a>
+          <h3>Related Products</h3><a href="../category/kerajinan-tangan.php" class="link arrow-link">See All</a>
           <div class="shop-header-line">
             <div class="shop-header-color"></div>
           </div>
@@ -516,9 +516,9 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img alt=""
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="../images/kerajinan1.jpg"
+                    src="../images/kerajinan1.png"
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="../images/kerajinan1.jpg 500w, ../images/kerajinan1.jpg 1200w" />
+                    srcset="../images/kerajinan1.png 500w, ../images/kerajinan1.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
@@ -607,12 +607,12 @@
     <div class="section color no-padding-vertical">
       <div class="wrapper text-white">
         <div class="footer">
-          <div class="footer-left"><a href="index.php" class="footer-brand w-nav-brand">
+          <div class="footer-left"><a href="../index.php" class="footer-brand w-nav-brand">
               <div>ToyStore</div>
             </a></div>
-          <div class="footer-nav"><a href="index.php" class="footer-link">Home</a><a href="catalog.php"
-              class="footer-link">Catalog</a><a href="delivery.php" class="footer-link">Delivery</a><a href="about.php"
-              class="footer-link">About</a><a href="contacts.php" class="footer-link">Contacts</a></div>
+          <div class="footer-nav"><a href="../index.php" class="footer-link">Home</a><a href="../catalog.php"
+              class="footer-link">Catalog</a><a href="../delivery.php" class="footer-link">Delivery</a><a href="../about.php"
+              class="footer-link">About</a><a href="../contacts.php" class="footer-link">Contacts</a></div>
           <div class="footer-social"><a href="https://elasticthemes.com" target="_blank"
               class="footer-social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
               href="https://elasticthemes.com" target="_blank" class="footer-social-link w-inline-block"><img

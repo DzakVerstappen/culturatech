@@ -69,13 +69,13 @@
         </div>
       </div>
       <div class="nav-main">
-        <div class="wrapper nav-bar-wrapper"><a href="index.php" class="brand w-nav-brand">
+        <div class="wrapper nav-bar-wrapper"><a href="../index.php" class="brand w-nav-brand">
             <div>Shopify</div>
           </a>
           <div class="navigation">
-            <nav role="navigation" class="nav-menu w-nav-menu"><a href="catalog.php"
-                class="nav-link w-nav-link">Catalog</a><a href="delivery.php" class="nav-link w-nav-link">Delivery</a><a
-                href="about.php" class="nav-link w-nav-link">About</a><a href="contacts.php"
+            <nav role="navigation" class="nav-menu w-nav-menu"><a href="../catalog.php"
+                class="nav-link w-nav-link">Catalog</a><a href="../delivery.php" class="nav-link w-nav-link">Delivery</a><a
+                href="../about.php" class="nav-link w-nav-link">About</a><a href="../contacts.php"
                 class="nav-link w-nav-link">Contacts</a></nav>
             <div class="menu-button w-nav-button">
               <div class="w-icon-nav-menu"></div>
@@ -360,8 +360,8 @@
     </div>
     <div class="section no-padding-vertical">
       <div class="wrapper side-paddings">
-        <div class="breadcrumbs"><a href="index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
-            alt="" class="breadcrumbs-arrow" /><a href="catalog.php" class="link-grey">Catalog</a><img
+        <div class="breadcrumbs"><a href="../index.php" class="link-grey">Home</a><img src="../images/arrow-right-mini-icon-1.svg"
+            alt="" class="breadcrumbs-arrow" /><a href="../catalog.php" class="link-grey">Catalog</a><img
             src="../images/arrow-right-mini-icon-1.svg" alt="" class="breadcrumbs-arrow" />
           <div>Makanan Khas</div>
         </div>
@@ -371,14 +371,14 @@
       <div class="wrapper">
         <div class="shop-header">
           <h3 class="no-margin w-hidden-small w-hidden-tiny">Makanan Khas</h3>
-          <div class="shop-categories-wrapper"><a href="catalog.php" class="shop-category-link">All Product</a>
+          <div class="shop-categories-wrapper"><a href="../catalog.php" class="shop-category-link">All Product</a>
             <div class="w-dyn-list">
               <div role="list" class="shop-categories w-dyn-items">
-                <div role="listitem" class="w-dyn-item"><a href="category/kerajinan-tangan.php"
+                <div role="listitem" class="w-dyn-item"><a href="kerajinan-tangan.php"
                     class="shop-category-link">Kerajinan Tangan</a></div>
-                <div role="listitem" class="w-dyn-item"><a href="category/pakaian.php" 
+                <div role="listitem" class="w-dyn-item"><a href="pakaian.php" 
                     class="shop-category-link w--current">Pakaian</a></div>
-                <div role="listitem" class="w-dyn-item"><a href="category/makanan-khas.php"   aria-current="page"
+                <div role="listitem" class="w-dyn-item"><a href="makanan-khas.php"   aria-current="page"
                     class="shop-category-link">Makanan Khas</a></div>
               </div>
             </div>
@@ -537,12 +537,12 @@
     <div class="section color no-padding-vertical">
       <div class="wrapper text-white">
         <div class="footer">
-          <div class="footer-left"><a href="index.php" class="footer-brand w-nav-brand">
+          <div class="footer-left"><a href="../index.php" class="footer-brand w-nav-brand">
               <div>Shopify</div>
             </a></div>
-          <div class="footer-nav"><a href="index.php" class="footer-link">Home</a><a href="catalog.php"
-              class="footer-link">Catalog</a><a href="delivery.php" class="footer-link">Delivery</a><a href="about.php"
-              class="footer-link">About</a><a href="contacts.php" class="footer-link">Contacts</a></div>
+          <div class="footer-nav"><a href="../index.php" class="footer-link">Home</a><a href="../catalog.php"
+              class="footer-link">Catalog</a><a href="../delivery.php" class="footer-link">Delivery</a><a href="../about.php"
+              class="footer-link">About</a><a href="../contacts.php" class="footer-link">Contacts</a></div>
           <div class="footer-social"><a href="https://elasticthemes.com" target="_blank"
               class="footer-social-link w-inline-block"><img src="../images/twitter-icon-white.svg" alt="" /></a><a
               href="https://elasticthemes.com" target="_blank" class="footer-social-link w-inline-block"><img

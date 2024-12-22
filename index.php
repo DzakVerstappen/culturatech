@@ -379,7 +379,7 @@
               srcset="images/pakaian.png 500w, images/pakaian.png 1200w"
               sizes="(max-width: 479px) 64vw, (max-width: 991px) 176px, 220px" alt="" class="home-category-image-1" />
             <div class="home-category-info-1">
-              <h3>Pakaian</h3><a href="catalog.php" class="button small white w-button">Shop Now</a>
+              <h3>Pakaian</h3><a href="category/pakaian.php" class="button small white w-button">ShopNow</a>
             </div>
           </div>
           <div data-w-id="b498480a-a03d-afff-8227-912980ab2a0a" style="opacity:0" class="home-category-card red"><img
@@ -387,7 +387,7 @@
               srcset="images/kura.png 500w, images/kura.png 1200w"
               sizes="(max-width: 479px) 60vw, (max-width: 991px) 176px, 220px" alt="" class="home-category-image-2" />
             <div class="home-category-info-2">
-              <h3>Kerajinan Tangan</h3><a href="catalog.php" class="button small white w-button">Shop Now</a>
+              <h3>Kerajinan Tangan</h3><a href="category/kerajinan-tangan.php" class="button small white w-button">Shop Now</a>
             </div>
           </div>
 
@@ -396,7 +396,7 @@
             srcset="images/Bakpia-logo.png 500w, images/Bakpia-logo.png 1200w"
             sizes="(max-width: 479px) 60vw, (max-width: 991px) 176px, 220px" alt="" class="home-category-image-3" />
           <div class="home-category-info-3">
-            <h3>Makanan Khas</h3><a href="catalog.php" class="button small white w-button">Shop Now</a>
+            <h3>Makanan Khas</h3><a href="category/makanan-khas.php" class="button small white w-button">Shop Now</a>
           </div>
         </div>
         
