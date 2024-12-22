@@ -5,6 +5,22 @@
  *   var Webflow = Webflow || [];
  *   Webflow.push(readyFunction);
  */
+document.addEventListener('DOMContentLoaded', function() {
+    const profileButton = document.querySelector('.profile-button');
+    const dropdownContent = document.querySelector('.dropdown-content');
+
+    profileButton.addEventListener('click', function(e) {
+        e.stopPropagation();
+        dropdownContent.style.display = dropdownContent.style.display === 'block' ? 'none' : 'block';
+    });
+
+    document.addEventListener('click', function(e) {
+        if (!profileButton.contains(e.target)) {
+            dropdownContent.style.display = 'none';
+        }
+    });
+});
+
 ! function (e) {
     var t = {};
 

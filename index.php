@@ -29,6 +29,7 @@
   </script>
   <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
   <link href="images/app-icon.png" rel="apple-touch-icon" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <script type="text/javascript">
     window.__WEBFLOW_CURRENCY_SETTINGS = {
       "currencyCode": "USD",
@@ -203,12 +204,23 @@
     }
   }
 }" data-wf-page-link-href-prefix="" class="w-commerce-commercecartwrapper"><a href="#"
+                data-node-type="commerce-cart-open-link"
                 class="w-commerce-commercecartopenlink cart-button w-inline-block" role="button" aria-haspopup="dialog"
                 aria-label="Open cart">
-                <div class="w-inline-block" data-node-type="commerce-cart-open-link">Cart</div><img src="images/cart-icon.svg" alt="" class="cart-icon" />
+                <div class="w-inline-block" >Cart</div><img src="images/cart-icon.svg" alt="" class="cart-icon" />
                 <div class="w-commerce-commercecartopenlinkcount item-count">0</div>
                 <div class="w-inline-block profile menu-button w-nav-button"></div><img src="images/profile.png" alt="" class="cart-icon" />
               </a>
+              <!-- Di navbar, tambahkan ini di sebelah cart -->
+              <div class="profile-dropdown">
+                <button class="profile-button">
+                  <img src="images/profile.png" alt="Profile" class="profile-icon">
+                </button>
+                <div class="dropdown-content">
+                  <a href="account.php"><i class="fas fa-user"></i> Account</a>
+                  <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                </div>
+              </div>
               <div data-node-type="commerce-cart-container-wrapper" style="display:none"
                 class="w-commerce-commercecartcontainerwrapper w-commerce-commercecartcontainerwrapper--cartType-modal">
                 <div data-node-type="commerce-cart-container" role="dialog"
