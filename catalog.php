@@ -405,9 +405,9 @@
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                    src="images/kerajinan1.webp" alt=""
+                    src="images/kerajinan1.png" alt=""
                     sizes="(max-width: 479px) 73vw, (max-width: 767px) 34vw, (max-width: 991px) 33vw, 12vw"
-                    srcset="images/kerajinan1.webp 500w, images/kerajinan1.webp 1200w" />
+                    srcset="images/kerajinan1.png 500w, images/kerajinan1.png 1200w" />
                 </div>
                 <h6 class="product-card-heading">Miniatur Wayang</h6>
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
@@ -497,7 +497,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 200.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/rainbow-truck.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/pie-jogja.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -521,7 +521,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 230.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/happy-dog.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/bakpia-25.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -533,7 +533,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 35.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/caterpillar.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/bakpia-kukus.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
@@ -557,7 +557,7 @@
                 <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
                   class="product-card-price">Rp. 300.000 IDR</div>
               </a></div>
-            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/wooden-tractor.php"
+            <div role="listitem" class="product-card-wrapper w-dyn-item"><a href="product/wingko.php"
                 class="product-card w-inline-block">
                 <div class="product-card-image-wrapper"><img
                     data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
